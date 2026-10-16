@@ -1,0 +1,1001 @@
+OrderID,CustomerName,City,ProductCategory,ProductName,Occasion,OrderDate,DeliveryDate,Quantity,ItemPrice,TotalAmount,OrderHour
+1001,Rahul Sen 1,Bidhannagar,Cake,Harum Pack,Birthday,2023-02-24,2023-02-28,2,2733,5466,7
+1002,Vikram Malhotra 2,Bhatpara,Cake,Deserunt Box,Birthday,2023-02-20,2023-02-23,1,3161,3161,18
+1003,Vikram Malhotra 3,Dhanbad,Plants,Quia Gift,Diwali,2023-11-01,2023-11-07,1,2231,2231,12
+1004,Rohan Verma 4,Dhanbad,Sweets,Harum Pack,Anniversary,2023-02-04,2023-02-09,1,1583,1583,19
+1005,Meera Rao 5,Imphal,Raksha Bandhan,Deserunt Box,Holi,2023-02-10,2023-02-17,2,4029,8058,12
+1006,Ananya Gupta 6,Bidhannagar,Cake,Dolores Gift,Diwali,2023-12-28,2024-01-01,1,1638,1638,14
+1007,Divya Menon 7,Guntakal,Colors,Harum Pack,Diwali,2023-02-09,2023-02-15,2,792,1584,17
+1008,Rohan Verma 8,Kavali,Soft Toys,Dolores Gift,Birthday,2023-06-09,2023-06-18,2,2781,5562,10
+1009,Neha Joshi 9,Bhatpara,Colors,Deserunt Box,Diwali,2023-04-03,2023-04-07,3,4089,12267,18
+1010,Ananya Gupta 10,Imphal,Plants,Magnam Set,Birthday,2023-03-08,2023-03-14,1,3559,3559,16
+1011,Aditya Roy 11,North Dumdum,Plants,Harum Pack,Birthday,2023-12-05,2023-12-10,1,692,692,20
+1012,Rohan Verma 12,Bilaspur,Sweets,Magnam Set,Raksha Bandhan,2023-02-13,2023-02-18,1,1529,1529,22
+1013,Divya Menon 13,Bhatpara,Soft Toys,Deserunt Box,Valentine's Day,2023-11-25,2023-11-29,2,956,1912,11
+1014,Rohan Verma 14,Imphal,Cake,Harum Pack,Raksha Bandhan,2023-09-17,2023-09-25,3,1722,5166,19
+1015,Amit Deshmukh 15,North Dumdum,Colors,Dolores Gift,Diwali,2023-09-18,2023-09-27,3,4262,12786,0
+1016,Neha Joshi 16,Imphal,Cake,Deserunt Box,Diwali,2023-11-27,2023-12-04,1,1486,1486,20
+1017,Priya Patel 17,Bidhannagar,Soft Toys,Magnam Set,Anniversary,2023-12-18,2023-12-24,1,2446,2446,21
+1018,Rohan Verma 18,Dibrugarh,Raksha Bandhan,Quia Gift,Holi,2023-12-18,2023-12-24,2,3420,6840,11
+1019,Rahul Sen 19,Guntakal,Plants,Quia Gift,Holi,2023-02-08,2023-02-11,1,2768,2768,10
+1020,Ananya Gupta 20,Bhatpara,Cake,Deserunt Box,Birthday,2023-02-02,2023-02-09,1,1474,1474,11
+1021,Pooja Nair 21,Dhanbad,Raksha Bandhan,Dolores Gift,Valentine's Day,2023-11-19,2023-11-24,1,2437,2437,19
+1022,Ananya Gupta 22,Bidhannagar,Cake,Magnam Set,Diwali,2023-04-15,2023-04-22,1,3176,3176,22
+1023,Priya Patel 23,Bhatpara,Plants,Harum Pack,Anniversary,2023-02-07,2023-02-12,1,1251,1251,11
+1024,Ananya Gupta 24,Bidhannagar,Plants,Quia Gift,Anniversary,2023-02-18,2023-02-25,4,4294,17176,18
+1025,Ananya Gupta 25,Bilaspur,Plants,Magnam Set,Holi,2023-02-13,2023-02-21,1,508,508,22
+1026,Kabir Singh 26,Imphal,Mugs,Magnam Set,Valentine's Day,2023-12-26,2023-12-31,2,1134,2268,9
+1027,Ananya Gupta 27,Bhatpara,Raksha Bandhan,Quia Gift,Anniversary,2023-09-02,2023-09-05,1,4265,4265,20
+1028,Rohan Verma 28,Bhatpara,Raksha Bandhan,Deserunt Box,Birthday,2023-02-03,2023-02-09,1,991,991,21
+1029,Sneha Iyer 29,Dhanbad,Raksha Bandhan,Quia Gift,Anniversary,2023-08-14,2023-08-20,1,1795,1795,21
+1030,Ananya Gupta 30,Guntakal,Colors,Harum Pack,Holi,2023-02-21,2023-02-25,1,3579,3579,21
+1031,Aarav Sharma 31,Imphal,Raksha Bandhan,Quia Gift,Anniversary,2023-02-07,2023-02-12,1,1929,1929,20
+1032,Aditya Roy 32,Dhanbad,Mugs,Harum Pack,Birthday,2023-05-18,2023-05-24,2,3805,7610,17
+1033,Aarav Sharma 33,Kavali,Mugs,Deserunt Box,Birthday,2023-03-04,2023-03-10,1,1654,1654,17
+1034,Meera Rao 34,Guntakal,Colors,Harum Pack,Raksha Bandhan,2023-06-28,2023-07-01,2,3897,7794,11
+1035,Aarav Sharma 35,Guntakal,Sweets,Dolores Gift,Valentine's Day,2023-12-06,2023-12-12,1,2251,2251,16
+1036,Priya Patel 36,Bidhannagar,Soft Toys,Dolores Gift,Raksha Bandhan,2023-01-12,2023-01-17,1,1022,1022,5
+1037,Neha Joshi 37,Bhatpara,Mugs,Dolores Gift,Valentine's Day,2023-02-04,2023-02-09,1,4082,4082,13
+1038,Sneha Iyer 38,Bilaspur,Colors,Dolores Gift,Birthday,2023-11-01,2023-11-05,3,3704,11112,21
+1039,Karan Joshi 39,Dhanbad,Mugs,Dolores Gift,Valentine's Day,2023-02-28,2023-03-03,1,1317,1317,19
+1040,Pooja Nair 40,Guntakal,Mugs,Dolores Gift,Birthday,2023-01-07,2023-01-12,1,784,784,22
+1041,Kabir Singh 41,Guntakal,Soft Toys,Quia Gift,Holi,2023-08-27,2023-09-01,3,972,2916,20
+1042,Kabir Singh 42,Bilaspur,Raksha Bandhan,Harum Pack,Anniversary,2023-02-14,2023-02-19,2,2287,4574,17
+1043,Amit Deshmukh 43,Bidhannagar,Plants,Quia Gift,Birthday,2023-03-23,2023-03-28,1,3803,3803,15
+1044,Meera Rao 44,Dhanbad,Mugs,Magnam Set,Anniversary,2023-11-11,2023-11-17,2,1010,2020,18
+1045,Kabir Singh 45,Kavali,Mugs,Magnam Set,Diwali,2023-04-10,2023-04-15,1,3223,3223,21
+1046,Rahul Sen 46,Bilaspur,Raksha Bandhan,Quia Gift,Diwali,2023-04-27,2023-04-30,1,2260,2260,19
+1047,Sneha Iyer 47,Guntakal,Plants,Magnam Set,Holi,2023-08-17,2023-08-22,3,3760,11280,18
+1048,Rahul Sen 48,Bidhannagar,Mugs,Quia Gift,Valentine's Day,2023-08-11,2023-08-14,4,1462,5848,17
+1049,Ananya Gupta 49,Dhanbad,Colors,Deserunt Box,Anniversary,2023-02-16,2023-02-22,2,2365,4730,13
+1050,Rahul Sen 50,North Dumdum,Colors,Magnam Set,Holi,2023-03-05,2023-03-11,1,3575,3575,20
+1051,Aditya Roy 51,Bidhannagar,Sweets,Magnam Set,Birthday,2023-02-23,2023-02-28,1,1520,1520,21
+1052,Priya Patel 52,Imphal,Colors,Magnam Set,Valentine's Day,2023-08-18,2023-08-23,4,4151,16604,14
+1053,Divya Menon 53,Kavali,Plants,Quia Gift,Holi,2023-11-24,2023-12-01,1,3579,3579,10
+1054,Rahul Sen 54,Dibrugarh,Sweets,Quia Gift,Holi,2023-08-09,2023-08-14,2,1460,2920,11
+1055,Neha Joshi 55,Kavali,Cake,Dolores Gift,Birthday,2023-02-23,2023-02-27,1,2199,2199,13
+1056,Amit Deshmukh 56,Imphal,Plants,Deserunt Box,Birthday,2023-11-13,2023-11-21,1,3348,3348,3
+1057,Aditya Roy 57,North Dumdum,Plants,Magnam Set,Anniversary,2023-11-10,2023-11-16,3,4405,13215,19
+1058,Amit Deshmukh 58,Kavali,Sweets,Quia Gift,Birthday,2023-06-09,2023-06-14,1,1876,1876,17
+1059,Karan Joshi 59,Haridwar,Soft Toys,Dolores Gift,Holi,2023-11-20,2023-11-25,3,2924,8772,16
+1060,Aarav Sharma 60,Bidhannagar,Soft Toys,Magnam Set,Birthday,2023-11-06,2023-11-09,1,1366,1366,14
+1061,Neha Joshi 61,Haridwar,Mugs,Magnam Set,Diwali,2023-11-16,2023-11-19,1,4399,4399,12
+1062,Rahul Sen 62,Bidhannagar,Sweets,Deserunt Box,Anniversary,2023-11-07,2023-11-14,2,1477,2954,8
+1063,Rahul Sen 63,Bidhannagar,Raksha Bandhan,Dolores Gift,Holi,2023-08-25,2023-08-30,2,4447,8894,18
+1064,Priya Patel 64,Bilaspur,Mugs,Deserunt Box,Raksha Bandhan,2023-01-10,2023-01-15,3,2037,6111,13
+1065,Meera Rao 65,Dhanbad,Cake,Quia Gift,Valentine's Day,2023-11-08,2023-11-12,2,3982,7964,18
+1066,Karan Joshi 66,Bidhannagar,Sweets,Quia Gift,Anniversary,2023-03-14,2023-03-20,1,3152,3152,12
+1067,Divya Menon 67,Haridwar,Sweets,Magnam Set,Anniversary,2023-05-12,2023-05-18,2,3397,6794,9
+1068,Rohan Verma 68,Kavali,Soft Toys,Harum Pack,Raksha Bandhan,2023-11-18,2023-11-24,1,3882,3882,18
+1069,Kabir Singh 69,Guntakal,Sweets,Dolores Gift,Anniversary,2023-03-15,2023-03-19,1,2999,2999,17
+1070,Neha Joshi 70,Bhatpara,Plants,Harum Pack,Birthday,2023-06-12,2023-06-18,1,4105,4105,16
+1071,Aditya Roy 71,Dibrugarh,Raksha Bandhan,Deserunt Box,Raksha Bandhan,2023-11-03,2023-11-07,1,2774,2774,18
+1072,Meera Rao 72,Imphal,Soft Toys,Magnam Set,Holi,2023-10-03,2023-10-07,1,1496,1496,11
+1073,Sneha Iyer 73,Guntakal,Plants,Quia Gift,Raksha Bandhan,2023-03-24,2023-03-29,1,2358,2358,10
+1074,Kabir Singh 74,Dhanbad,Cake,Dolores Gift,Diwali,2023-02-18,2023-02-27,2,1284,2568,10
+1075,Pooja Nair 75,Dibrugarh,Soft Toys,Quia Gift,Raksha Bandhan,2023-08-04,2023-08-11,1,1978,1978,9
+1076,Aarav Sharma 76,Kavali,Colors,Harum Pack,Anniversary,2023-12-18,2023-12-22,3,3112,9336,20
+1077,Pooja Nair 77,Bidhannagar,Sweets,Deserunt Box,Raksha Bandhan,2023-03-16,2023-03-21,1,710,710,10
+1078,Divya Menon 78,Imphal,Cake,Deserunt Box,Holi,2023-07-19,2023-07-25,1,1111,1111,19
+1079,Kabir Singh 79,Bidhannagar,Colors,Deserunt Box,Raksha Bandhan,2023-09-20,2023-09-25,2,3677,7354,15
+1080,Pooja Nair 80,Imphal,Mugs,Quia Gift,Holi,2023-03-20,2023-03-23,4,906,3624,21
+1081,Ananya Gupta 81,Dhanbad,Mugs,Deserunt Box,Birthday,2023-02-18,2023-02-21,1,2345,2345,18
+1082,Pooja Nair 82,Dibrugarh,Cake,Dolores Gift,Diwali,2023-08-23,2023-08-30,1,1456,1456,21
+1083,Karan Joshi 83,North Dumdum,Soft Toys,Dolores Gift,Holi,2023-02-08,2023-02-14,3,3885,11655,9
+1084,Aarav Sharma 84,Bilaspur,Sweets,Harum Pack,Raksha Bandhan,2023-09-19,2023-09-27,1,2419,2419,18
+1085,Meera Rao 85,Haridwar,Mugs,Quia Gift,Raksha Bandhan,2023-07-03,2023-07-08,3,3508,10524,11
+1086,Kabir Singh 86,Bhatpara,Cake,Dolores Gift,Valentine's Day,2023-11-19,2023-11-24,1,3632,3632,17
+1087,Kabir Singh 87,North Dumdum,Cake,Dolores Gift,Holi,2023-07-15,2023-07-23,1,2897,2897,13
+1088,Divya Menon 88,Imphal,Cake,Magnam Set,Diwali,2023-04-11,2023-04-17,3,1850,5550,13
+1089,Pooja Nair 89,Dibrugarh,Soft Toys,Magnam Set,Raksha Bandhan,2023-01-03,2023-01-08,1,4473,4473,19
+1090,Divya Menon 90,Kavali,Sweets,Deserunt Box,Valentine's Day,2023-11-15,2023-11-20,1,1981,1981,17
+1091,Pooja Nair 91,Imphal,Sweets,Deserunt Box,Birthday,2023-03-05,2023-03-13,1,3360,3360,14
+1092,Aarav Sharma 92,North Dumdum,Sweets,Dolores Gift,Valentine's Day,2023-02-18,2023-02-21,1,1420,1420,23
+1093,Aditya Roy 93,Bidhannagar,Plants,Deserunt Box,Valentine's Day,2023-11-16,2023-11-24,1,3389,3389,11
+1094,Divya Menon 94,Imphal,Plants,Dolores Gift,Holi,2023-08-13,2023-08-17,1,3556,3556,20
+1095,Divya Menon 95,Bidhannagar,Mugs,Magnam Set,Diwali,2023-11-17,2023-11-21,1,3473,3473,11
+1096,Sneha Iyer 96,North Dumdum,Soft Toys,Magnam Set,Birthday,2023-05-16,2023-05-21,1,2725,2725,12
+1097,Aditya Roy 97,Guntakal,Sweets,Dolores Gift,Valentine's Day,2023-02-13,2023-02-17,2,678,1356,11
+1098,Pooja Nair 98,Haridwar,Plants,Dolores Gift,Holi,2023-12-05,2023-12-10,1,4062,4062,8
+1099,Divya Menon 99,Imphal,Cake,Quia Gift,Holi,2023-01-05,2023-01-10,2,1132,2264,7
+1100,Karan Joshi 100,Dibrugarh,Mugs,Quia Gift,Valentine's Day,2023-03-03,2023-03-10,3,4019,12057,15
+1101,Neha Joshi 101,Imphal,Sweets,Quia Gift,Anniversary,2023-08-08,2023-08-14,3,1431,4293,18
+1102,Vikram Malhotra 102,Bidhannagar,Sweets,Deserunt Box,Holi,2023-02-10,2023-02-18,1,3761,3761,6
+1103,Neha Joshi 103,Guntakal,Plants,Dolores Gift,Birthday,2023-08-19,2023-08-25,1,1217,1217,7
+1104,Divya Menon 104,Haridwar,Raksha Bandhan,Dolores Gift,Holi,2023-11-05,2023-11-09,2,2382,4764,10
+1105,Aarav Sharma 105,Imphal,Mugs,Quia Gift,Birthday,2023-02-12,2023-02-21,1,4440,4440,13
+1106,Kabir Singh 106,Imphal,Sweets,Harum Pack,Birthday,2023-12-28,2024-01-02,1,2842,2842,12
+1107,Kabir Singh 107,Dibrugarh,Cake,Magnam Set,Diwali,2023-01-28,2023-02-03,2,700,1400,21
+1108,Meera Rao 108,Imphal,Sweets,Harum Pack,Birthday,2023-08-12,2023-08-16,1,1526,1526,18
+1109,Meera Rao 109,Bilaspur,Soft Toys,Deserunt Box,Valentine's Day,2023-08-10,2023-08-16,1,1994,1994,18
+1110,Priya Patel 110,Dibrugarh,Mugs,Magnam Set,Birthday,2023-02-26,2023-03-03,4,2674,10696,15
+1111,Kabir Singh 111,Bilaspur,Mugs,Magnam Set,Diwali,2023-09-11,2023-09-18,1,808,808,9
+1112,Ananya Gupta 112,Haridwar,Sweets,Quia Gift,Diwali,2023-02-13,2023-02-16,1,2362,2362,12
+1113,Meera Rao 113,Dibrugarh,Raksha Bandhan,Magnam Set,Valentine's Day,2023-11-04,2023-11-10,1,3037,3037,20
+1114,Amit Deshmukh 114,Guntakal,Raksha Bandhan,Dolores Gift,Valentine's Day,2023-02-27,2023-03-04,2,3159,6318,13
+1115,Rohan Verma 115,Bhatpara,Cake,Harum Pack,Holi,2023-02-08,2023-02-15,1,2358,2358,12
+1116,Meera Rao 116,Kavali,Plants,Quia Gift,Valentine's Day,2023-08-14,2023-08-20,2,3021,6042,13
+1117,Kabir Singh 117,Bhatpara,Soft Toys,Harum Pack,Birthday,2023-05-08,2023-05-15,1,3308,3308,12
+1118,Aditya Roy 118,Guntakal,Cake,Magnam Set,Diwali,2023-02-04,2023-02-12,2,875,1750,17
+1119,Rahul Sen 119,North Dumdum,Cake,Deserunt Box,Diwali,2023-02-05,2023-02-11,1,3898,3898,19
+1120,Ananya Gupta 120,North Dumdum,Colors,Dolores Gift,Diwali,2023-10-26,2023-11-03,1,4016,4016,22
+1121,Rohan Verma 121,Kavali,Mugs,Dolores Gift,Anniversary,2023-08-01,2023-08-05,1,3729,3729,10
+1122,Neha Joshi 122,Bhatpara,Colors,Harum Pack,Anniversary,2023-02-14,2023-02-19,2,2450,4900,14
+1123,Neha Joshi 123,Kavali,Raksha Bandhan,Deserunt Box,Holi,2023-07-20,2023-07-23,2,4051,8102,17
+1124,Kabir Singh 124,Imphal,Soft Toys,Deserunt Box,Anniversary,2023-12-28,2024-01-02,2,2508,5016,18
+1125,Pooja Nair 125,Bidhannagar,Cake,Harum Pack,Raksha Bandhan,2023-02-05,2023-02-09,2,2746,5492,18
+1126,Vikram Malhotra 126,North Dumdum,Raksha Bandhan,Harum Pack,Holi,2023-07-14,2023-07-17,2,3993,7986,17
+1127,Aditya Roy 127,Kavali,Soft Toys,Dolores Gift,Holi,2023-05-08,2023-05-13,2,2133,4266,13
+1128,Priya Patel 128,Guntakal,Plants,Harum Pack,Valentine's Day,2023-03-05,2023-03-11,1,873,873,19
+1129,Priya Patel 129,Haridwar,Cake,Harum Pack,Birthday,2023-08-19,2023-08-28,1,3244,3244,8
+1130,Neha Joshi 130,Haridwar,Sweets,Deserunt Box,Diwali,2023-08-12,2023-08-16,1,1133,1133,17
+1131,Ananya Gupta 131,Bidhannagar,Mugs,Quia Gift,Diwali,2023-02-09,2023-02-14,2,3961,7922,16
+1132,Karan Joshi 132,North Dumdum,Raksha Bandhan,Quia Gift,Anniversary,2023-08-22,2023-08-29,1,1238,1238,11
+1133,Karan Joshi 133,Dibrugarh,Mugs,Harum Pack,Anniversary,2023-02-05,2023-02-10,1,1081,1081,18
+1134,Aarav Sharma 134,Bidhannagar,Soft Toys,Quia Gift,Birthday,2023-03-15,2023-03-20,1,3455,3455,11
+1135,Sneha Iyer 135,North Dumdum,Cake,Deserunt Box,Birthday,2023-02-20,2023-02-23,1,2314,2314,17
+1136,Pooja Nair 136,North Dumdum,Plants,Magnam Set,Diwali,2023-02-17,2023-02-21,1,1660,1660,18
+1137,Sneha Iyer 137,Imphal,Raksha Bandhan,Harum Pack,Anniversary,2023-02-20,2023-02-23,1,4372,4372,10
+1138,Rohan Verma 138,Dibrugarh,Mugs,Harum Pack,Anniversary,2023-01-24,2023-01-29,1,2681,2681,18
+1139,Amit Deshmukh 139,Kavali,Sweets,Harum Pack,Anniversary,2023-03-24,2023-03-27,1,4273,4273,7
+1140,Neha Joshi 140,North Dumdum,Plants,Quia Gift,Holi,2023-08-14,2023-08-18,1,4457,4457,11
+1141,Karan Joshi 141,North Dumdum,Plants,Harum Pack,Anniversary,2023-05-04,2023-05-08,1,2646,2646,7
+1142,Divya Menon 142,Dibrugarh,Soft Toys,Harum Pack,Birthday,2023-03-06,2023-03-09,2,2673,5346,15
+1143,Aditya Roy 143,Guntakal,Mugs,Dolores Gift,Birthday,2023-02-09,2023-02-13,2,3613,7226,19
+1144,Priya Patel 144,Bilaspur,Sweets,Magnam Set,Holi,2023-09-25,2023-09-30,2,4112,8224,16
+1145,Rahul Sen 145,North Dumdum,Mugs,Harum Pack,Birthday,2023-05-16,2023-05-21,1,1625,1625,16
+1146,Neha Joshi 146,Kavali,Cake,Harum Pack,Holi,2023-05-02,2023-05-07,1,3140,3140,20
+1147,Divya Menon 147,Bidhannagar,Raksha Bandhan,Quia Gift,Raksha Bandhan,2023-03-19,2023-03-24,2,4169,8338,5
+1148,Aditya Roy 148,North Dumdum,Soft Toys,Dolores Gift,Diwali,2023-08-17,2023-08-21,1,923,923,19
+1149,Divya Menon 149,Guntakal,Soft Toys,Deserunt Box,Raksha Bandhan,2023-08-02,2023-08-06,1,2299,2299,15
+1150,Sneha Iyer 150,Bilaspur,Mugs,Harum Pack,Diwali,2023-03-25,2023-03-30,1,3732,3732,17
+1151,Neha Joshi 151,Bidhannagar,Mugs,Deserunt Box,Raksha Bandhan,2023-08-10,2023-08-14,3,4450,13350,20
+1152,Divya Menon 152,Bilaspur,Mugs,Deserunt Box,Raksha Bandhan,2023-08-12,2023-08-17,2,3212,6424,13
+1153,Sneha Iyer 153,Bidhannagar,Mugs,Quia Gift,Holi,2023-08-11,2023-08-18,2,3895,7790,21
+1154,Rahul Sen 154,Kavali,Cake,Magnam Set,Raksha Bandhan,2023-03-12,2023-03-17,4,1899,7596,21
+1155,Pooja Nair 155,Dhanbad,Colors,Dolores Gift,Birthday,2023-02-28,2023-03-06,1,2710,2710,19
+1156,Aditya Roy 156,Kavali,Cake,Harum Pack,Raksha Bandhan,2023-02-13,2023-02-17,1,3337,3337,19
+1157,Karan Joshi 157,Bilaspur,Soft Toys,Magnam Set,Anniversary,2023-04-22,2023-04-28,4,3000,12000,11
+1158,Meera Rao 158,Imphal,Colors,Quia Gift,Birthday,2023-03-26,2023-04-01,3,1294,3882,12
+1159,Sneha Iyer 159,Imphal,Plants,Harum Pack,Holi,2023-07-14,2023-07-23,2,3781,7562,17
+1160,Divya Menon 160,Dibrugarh,Cake,Magnam Set,Diwali,2023-08-04,2023-08-10,1,1010,1010,11
+1161,Karan Joshi 161,Bilaspur,Mugs,Magnam Set,Raksha Bandhan,2023-02-14,2023-02-17,3,3845,11535,14
+1162,Neha Joshi 162,Bhatpara,Plants,Deserunt Box,Holi,2023-07-08,2023-07-13,1,1419,1419,4
+1163,Aditya Roy 163,Bidhannagar,Sweets,Harum Pack,Birthday,2023-02-10,2023-02-18,1,3904,3904,9
+1164,Meera Rao 164,Imphal,Plants,Quia Gift,Anniversary,2023-11-01,2023-11-05,2,2747,5494,21
+1165,Sneha Iyer 165,Kavali,Plants,Deserunt Box,Diwali,2023-02-04,2023-02-07,1,3751,3751,17
+1166,Priya Patel 166,Bidhannagar,Sweets,Magnam Set,Raksha Bandhan,2023-08-21,2023-08-26,1,1088,1088,11
+1167,Aarav Sharma 167,North Dumdum,Mugs,Dolores Gift,Raksha Bandhan,2023-04-22,2023-04-28,1,1977,1977,7
+1168,Amit Deshmukh 168,Kavali,Raksha Bandhan,Quia Gift,Raksha Bandhan,2023-01-28,2023-02-02,2,2029,4058,10
+1169,Aarav Sharma 169,Guntakal,Sweets,Deserunt Box,Diwali,2023-02-22,2023-02-28,2,3511,7022,18
+1170,Rohan Verma 170,Bhatpara,Mugs,Quia Gift,Diwali,2023-11-06,2023-11-13,2,3348,6696,14
+1171,Rohan Verma 171,Bilaspur,Cake,Magnam Set,Anniversary,2023-03-02,2023-03-08,3,1792,5376,21
+1172,Amit Deshmukh 172,Haridwar,Sweets,Quia Gift,Holi,2023-03-25,2023-03-31,1,4031,4031,19
+1173,Divya Menon 173,Guntakal,Mugs,Deserunt Box,Diwali,2023-05-13,2023-05-19,3,2083,6249,12
+1174,Rohan Verma 174,Imphal,Soft Toys,Magnam Set,Diwali,2023-11-17,2023-11-21,1,2238,2238,7
+1175,Sneha Iyer 175,Bilaspur,Raksha Bandhan,Harum Pack,Diwali,2023-02-11,2023-02-17,1,2968,2968,18
+1176,Rohan Verma 176,Imphal,Mugs,Magnam Set,Anniversary,2023-08-12,2023-08-18,1,3119,3119,22
+1177,Aarav Sharma 177,Bidhannagar,Soft Toys,Magnam Set,Diwali,2023-07-24,2023-07-30,4,1084,4336,19
+1178,Rahul Sen 178,Imphal,Cake,Dolores Gift,Anniversary,2023-02-21,2023-02-26,1,2823,2823,5
+1179,Rohan Verma 179,Imphal,Mugs,Harum Pack,Holi,2023-09-19,2023-09-23,1,1787,1787,17
+1180,Ananya Gupta 180,Bidhannagar,Cake,Dolores Gift,Holi,2023-07-18,2023-07-22,2,3383,6766,14
+1181,Sneha Iyer 181,Dibrugarh,Soft Toys,Magnam Set,Birthday,2023-02-28,2023-03-03,1,3421,3421,14
+1182,Priya Patel 182,Guntakal,Soft Toys,Harum Pack,Valentine's Day,2023-02-18,2023-02-22,1,1145,1145,18
+1183,Aditya Roy 183,Bilaspur,Sweets,Harum Pack,Raksha Bandhan,2023-02-07,2023-02-13,1,2523,2523,4
+1184,Amit Deshmukh 184,North Dumdum,Mugs,Magnam Set,Raksha Bandhan,2023-02-03,2023-02-06,1,3436,3436,18
+1185,Amit Deshmukh 185,Haridwar,Sweets,Magnam Set,Raksha Bandhan,2023-02-11,2023-02-17,1,3285,3285,15
+1186,Rohan Verma 186,Kavali,Soft Toys,Quia Gift,Birthday,2023-09-05,2023-09-10,3,726,2178,19
+1187,Amit Deshmukh 187,Bilaspur,Mugs,Dolores Gift,Birthday,2023-03-23,2023-03-27,3,2625,7875,20
+1188,Divya Menon 188,Bidhannagar,Mugs,Dolores Gift,Valentine's Day,2023-12-09,2023-12-13,1,2685,2685,8
+1189,Rahul Sen 189,Bilaspur,Raksha Bandhan,Quia Gift,Birthday,2023-02-20,2023-02-26,2,3951,7902,21
+1190,Aarav Sharma 190,Bhatpara,Cake,Deserunt Box,Valentine's Day,2023-10-09,2023-10-15,2,2206,4412,17
+1191,Aarav Sharma 191,Imphal,Soft Toys,Quia Gift,Diwali,2023-08-10,2023-08-15,2,3305,6610,13
+1192,Pooja Nair 192,Bidhannagar,Soft Toys,Deserunt Box,Birthday,2023-05-16,2023-05-21,1,1088,1088,11
+1193,Meera Rao 193,Guntakal,Soft Toys,Harum Pack,Holi,2023-02-12,2023-02-17,1,1490,1490,14
+1194,Kabir Singh 194,Imphal,Colors,Dolores Gift,Anniversary,2023-02-13,2023-02-20,1,4443,4443,20
+1195,Rohan Verma 195,Guntakal,Raksha Bandhan,Harum Pack,Birthday,2023-09-16,2023-09-25,1,4100,4100,11
+1196,Aarav Sharma 196,Bidhannagar,Plants,Quia Gift,Holi,2023-12-07,2023-12-12,1,1652,1652,15
+1197,Aditya Roy 197,Imphal,Mugs,Quia Gift,Anniversary,2023-11-14,2023-11-18,1,1998,1998,19
+1198,Neha Joshi 198,Bhatpara,Plants,Deserunt Box,Raksha Bandhan,2023-08-12,2023-08-17,1,2565,2565,14
+1199,Amit Deshmukh 199,Dibrugarh,Sweets,Quia Gift,Valentine's Day,2023-08-05,2023-08-14,1,3755,3755,22
+1200,Amit Deshmukh 200,Guntakal,Sweets,Dolores Gift,Birthday,2023-08-13,2023-08-18,1,1061,1061,18
+1201,Karan Joshi 201,Imphal,Raksha Bandhan,Magnam Set,Birthday,2023-08-17,2023-08-21,3,1804,5412,9
+1202,Sneha Iyer 202,Dibrugarh,Raksha Bandhan,Harum Pack,Raksha Bandhan,2023-11-18,2023-11-23,1,2445,2445,19
+1203,Neha Joshi 203,Guntakal,Soft Toys,Deserunt Box,Holi,2023-08-26,2023-09-02,3,3077,9231,4
+1204,Pooja Nair 204,Dibrugarh,Soft Toys,Quia Gift,Raksha Bandhan,2023-02-02,2023-02-07,1,3076,3076,18
+1205,Karan Joshi 205,Haridwar,Colors,Dolores Gift,Anniversary,2023-08-23,2023-08-27,1,1784,1784,13
+1206,Vikram Malhotra 206,Dhanbad,Plants,Quia Gift,Raksha Bandhan,2023-11-28,2023-12-05,2,3390,6780,8
+1207,Ananya Gupta 207,Kavali,Mugs,Magnam Set,Raksha Bandhan,2023-03-06,2023-03-11,1,2737,2737,12
+1208,Karan Joshi 208,Dibrugarh,Raksha Bandhan,Magnam Set,Birthday,2023-12-09,2023-12-14,1,4485,4485,22
+1209,Karan Joshi 209,Dibrugarh,Soft Toys,Dolores Gift,Valentine's Day,2023-08-11,2023-08-16,1,4327,4327,19
+1210,Kabir Singh 210,Dibrugarh,Cake,Quia Gift,Valentine's Day,2023-08-13,2023-08-20,4,3795,15180,9
+1211,Aarav Sharma 211,Dibrugarh,Soft Toys,Deserunt Box,Diwali,2023-11-21,2023-11-25,1,1327,1327,19
+1212,Kabir Singh 212,Kavali,Soft Toys,Harum Pack,Birthday,2023-02-24,2023-03-01,1,3243,3243,20
+1213,Ananya Gupta 213,Dhanbad,Cake,Deserunt Box,Holi,2023-03-16,2023-03-20,2,521,1042,22
+1214,Aditya Roy 214,Bilaspur,Plants,Magnam Set,Holi,2023-08-25,2023-09-03,1,3145,3145,6
+1215,Karan Joshi 215,Bidhannagar,Soft Toys,Quia Gift,Birthday,2023-08-24,2023-08-31,1,4274,4274,9
+1216,Aditya Roy 216,Bilaspur,Cake,Magnam Set,Holi,2023-02-24,2023-03-05,3,4091,12273,5
+1217,Kabir Singh 217,North Dumdum,Raksha Bandhan,Deserunt Box,Diwali,2023-03-21,2023-03-26,1,4344,4344,8
+1218,Amit Deshmukh 218,Imphal,Mugs,Dolores Gift,Anniversary,2023-03-24,2023-03-29,1,1262,1262,2
+1219,Neha Joshi 219,Dibrugarh,Raksha Bandhan,Dolores Gift,Birthday,2023-08-21,2023-08-28,2,2610,5220,11
+1220,Vikram Malhotra 220,Bidhannagar,Colors,Dolores Gift,Holi,2023-03-08,2023-03-11,1,2329,2329,18
+1221,Neha Joshi 221,Dibrugarh,Raksha Bandhan,Quia Gift,Anniversary,2023-03-12,2023-03-18,1,984,984,14
+1222,Rohan Verma 222,Haridwar,Soft Toys,Quia Gift,Valentine's Day,2023-09-23,2023-09-27,3,1708,5124,12
+1223,Ananya Gupta 223,Dhanbad,Colors,Magnam Set,Birthday,2023-05-20,2023-05-25,2,4238,8476,14
+1224,Amit Deshmukh 224,Dhanbad,Sweets,Dolores Gift,Valentine's Day,2023-09-28,2023-10-04,1,2663,2663,18
+1225,Priya Patel 225,North Dumdum,Cake,Deserunt Box,Raksha Bandhan,2023-11-07,2023-11-12,1,1843,1843,20
+1226,Pooja Nair 226,Bidhannagar,Soft Toys,Dolores Gift,Valentine's Day,2023-08-03,2023-08-10,1,727,727,14
+1227,Amit Deshmukh 227,Haridwar,Plants,Quia Gift,Anniversary,2023-08-22,2023-08-29,2,2121,4242,10
+1228,Aarav Sharma 228,Dhanbad,Raksha Bandhan,Deserunt Box,Anniversary,2023-04-23,2023-04-26,4,4328,17312,20
+1229,Aditya Roy 229,Imphal,Cake,Harum Pack,Holi,2023-02-05,2023-02-11,4,3145,12580,22
+1230,Neha Joshi 230,Haridwar,Plants,Magnam Set,Holi,2023-02-22,2023-03-01,1,4023,4023,12
+1231,Rohan Verma 231,Kavali,Plants,Quia Gift,Birthday,2023-08-08,2023-08-15,2,1722,3444,14
+1232,Meera Rao 232,Kavali,Plants,Quia Gift,Holi,2023-11-08,2023-11-13,1,1272,1272,21
+1233,Meera Rao 233,Bidhannagar,Cake,Magnam Set,Raksha Bandhan,2023-09-01,2023-09-05,1,2932,2932,5
+1234,Sneha Iyer 234,Bhatpara,Colors,Deserunt Box,Holi,2023-05-18,2023-05-22,3,731,2193,9
+1235,Kabir Singh 235,Dhanbad,Sweets,Quia Gift,Diwali,2023-08-25,2023-08-31,1,1736,1736,20
+1236,Rahul Sen 236,Kavali,Colors,Magnam Set,Diwali,2023-03-18,2023-03-26,3,4233,12699,9
+1237,Rahul Sen 237,Haridwar,Raksha Bandhan,Magnam Set,Anniversary,2023-12-21,2023-12-27,2,1805,3610,18
+1238,Vikram Malhotra 238,Bilaspur,Mugs,Magnam Set,Birthday,2023-09-16,2023-09-20,1,4012,4012,18
+1239,Karan Joshi 239,Imphal,Cake,Quia Gift,Holi,2023-12-18,2023-12-23,1,1544,1544,10
+1240,Rahul Sen 240,Bidhannagar,Plants,Harum Pack,Anniversary,2023-08-27,2023-08-31,1,3259,3259,17
+1241,Aarav Sharma 241,Bidhannagar,Colors,Quia Gift,Valentine's Day,2023-08-07,2023-08-12,3,1863,5589,11
+1242,Aditya Roy 242,Bhatpara,Colors,Dolores Gift,Valentine's Day,2023-02-25,2023-03-02,1,2975,2975,18
+1243,Vikram Malhotra 243,Dhanbad,Raksha Bandhan,Harum Pack,Diwali,2023-03-18,2023-03-24,1,1973,1973,15
+1244,Pooja Nair 244,Imphal,Cake,Magnam Set,Diwali,2023-11-12,2023-11-17,1,4039,4039,10
+1245,Rohan Verma 245,Bhatpara,Mugs,Quia Gift,Raksha Bandhan,2023-08-14,2023-08-18,1,1442,1442,13
+1246,Divya Menon 246,Dhanbad,Plants,Quia Gift,Valentine's Day,2023-11-11,2023-11-15,2,4458,8916,18
+1247,Meera Rao 247,Imphal,Plants,Dolores Gift,Valentine's Day,2023-10-06,2023-10-10,1,1253,1253,21
+1248,Amit Deshmukh 248,Bhatpara,Raksha Bandhan,Deserunt Box,Anniversary,2023-11-22,2023-11-25,1,1063,1063,19
+1249,Ananya Gupta 249,Bidhannagar,Soft Toys,Dolores Gift,Anniversary,2023-02-15,2023-02-20,2,3231,6462,21
+1250,Aditya Roy 250,Imphal,Soft Toys,Magnam Set,Anniversary,2023-01-18,2023-01-23,1,3458,3458,11
+1251,Kabir Singh 251,Bhatpara,Raksha Bandhan,Magnam Set,Birthday,2023-02-04,2023-02-09,1,3038,3038,15
+1252,Divya Menon 252,Guntakal,Mugs,Magnam Set,Anniversary,2023-03-13,2023-03-18,1,3355,3355,10
+1253,Rahul Sen 253,Bidhannagar,Soft Toys,Deserunt Box,Anniversary,2023-04-13,2023-04-18,1,538,538,18
+1254,Priya Patel 254,Imphal,Sweets,Magnam Set,Valentine's Day,2023-10-19,2023-10-28,4,4165,16660,15
+1255,Aarav Sharma 255,Dhanbad,Colors,Quia Gift,Holi,2023-03-03,2023-03-09,1,2724,2724,16
+1256,Aarav Sharma 256,Bilaspur,Sweets,Harum Pack,Anniversary,2023-12-19,2023-12-23,2,3862,7724,13
+1257,Priya Patel 257,Dibrugarh,Colors,Quia Gift,Birthday,2023-08-28,2023-09-02,3,1858,5574,13
+1258,Meera Rao 258,Bilaspur,Sweets,Deserunt Box,Raksha Bandhan,2023-09-12,2023-09-15,1,3935,3935,7
+1259,Sneha Iyer 259,North Dumdum,Raksha Bandhan,Magnam Set,Diwali,2023-01-09,2023-01-15,1,1434,1434,12
+1260,Vikram Malhotra 260,Haridwar,Colors,Quia Gift,Valentine's Day,2023-03-25,2023-03-31,2,3420,6840,7
+1261,Kabir Singh 261,Bilaspur,Plants,Dolores Gift,Valentine's Day,2023-03-12,2023-03-16,1,1762,1762,14
+1262,Karan Joshi 262,Dibrugarh,Cake,Dolores Gift,Anniversary,2023-02-15,2023-02-20,1,923,923,4
+1263,Neha Joshi 263,Kavali,Cake,Quia Gift,Raksha Bandhan,2023-10-28,2023-11-02,1,2088,2088,19
+1264,Meera Rao 264,Kavali,Colors,Quia Gift,Raksha Bandhan,2023-02-13,2023-02-17,1,1599,1599,14
+1265,Priya Patel 265,Bilaspur,Plants,Harum Pack,Holi,2023-03-26,2023-03-29,1,1510,1510,18
+1266,Pooja Nair 266,North Dumdum,Raksha Bandhan,Dolores Gift,Holi,2023-02-10,2023-02-13,1,3947,3947,17
+1267,Karan Joshi 267,Guntakal,Plants,Harum Pack,Holi,2023-11-28,2023-12-04,1,1730,1730,11
+1268,Meera Rao 268,Dhanbad,Plants,Harum Pack,Birthday,2023-12-11,2023-12-15,2,2511,5022,22
+1269,Karan Joshi 269,Dhanbad,Mugs,Magnam Set,Diwali,2023-11-13,2023-11-18,3,1318,3954,16
+1270,Amit Deshmukh 270,Bilaspur,Soft Toys,Quia Gift,Anniversary,2023-12-15,2023-12-23,1,3767,3767,11
+1271,Meera Rao 271,Bidhannagar,Sweets,Magnam Set,Valentine's Day,2023-07-21,2023-07-26,1,1131,1131,18
+1272,Karan Joshi 272,Haridwar,Cake,Magnam Set,Raksha Bandhan,2023-06-13,2023-06-18,3,4062,12186,18
+1273,Amit Deshmukh 273,Bhatpara,Sweets,Harum Pack,Valentine's Day,2023-11-18,2023-11-23,3,947,2841,19
+1274,Rahul Sen 274,Guntakal,Colors,Quia Gift,Anniversary,2023-08-21,2023-08-27,1,3582,3582,12
+1275,Karan Joshi 275,Haridwar,Cake,Deserunt Box,Anniversary,2023-03-17,2023-03-23,1,3316,3316,16
+1276,Pooja Nair 276,Guntakal,Plants,Magnam Set,Valentine's Day,2023-08-17,2023-08-21,4,2477,9908,8
+1277,Vikram Malhotra 277,Bidhannagar,Cake,Dolores Gift,Diwali,2023-03-15,2023-03-21,1,1926,1926,14
+1278,Pooja Nair 278,Imphal,Mugs,Deserunt Box,Diwali,2023-01-23,2023-01-27,2,3154,6308,8
+1279,Karan Joshi 279,Bilaspur,Soft Toys,Dolores Gift,Raksha Bandhan,2023-02-06,2023-02-11,1,2392,2392,10
+1280,Vikram Malhotra 280,Bilaspur,Colors,Magnam Set,Holi,2023-01-20,2023-01-27,1,2259,2259,13
+1281,Meera Rao 281,Dhanbad,Colors,Harum Pack,Valentine's Day,2023-11-03,2023-11-08,2,2699,5398,9
+1282,Neha Joshi 282,Dhanbad,Plants,Deserunt Box,Diwali,2023-08-16,2023-08-21,2,2945,5890,13
+1283,Vikram Malhotra 283,North Dumdum,Cake,Harum Pack,Diwali,2023-11-20,2023-11-24,2,3779,7558,11
+1284,Sneha Iyer 284,North Dumdum,Cake,Dolores Gift,Diwali,2023-02-10,2023-02-14,1,1079,1079,15
+1285,Vikram Malhotra 285,North Dumdum,Colors,Quia Gift,Holi,2023-04-16,2023-04-22,2,3142,6284,21
+1286,Rohan Verma 286,Kavali,Colors,Magnam Set,Diwali,2023-02-11,2023-02-18,2,4045,8090,12
+1287,Aarav Sharma 287,Imphal,Colors,Dolores Gift,Holi,2023-12-17,2023-12-23,1,2514,2514,13
+1288,Divya Menon 288,Imphal,Plants,Dolores Gift,Anniversary,2023-08-26,2023-09-01,1,1625,1625,10
+1289,Kabir Singh 289,Bilaspur,Sweets,Magnam Set,Raksha Bandhan,2023-09-25,2023-09-30,1,2845,2845,8
+1290,Karan Joshi 290,Kavali,Sweets,Harum Pack,Raksha Bandhan,2023-11-02,2023-11-08,1,1395,1395,23
+1291,Priya Patel 291,Dhanbad,Mugs,Deserunt Box,Holi,2023-03-28,2023-04-04,1,980,980,19
+1292,Ananya Gupta 292,Dhanbad,Sweets,Quia Gift,Valentine's Day,2023-03-23,2023-03-29,1,3023,3023,9
+1293,Ananya Gupta 293,Dhanbad,Sweets,Deserunt Box,Raksha Bandhan,2023-03-09,2023-03-14,1,3383,3383,11
+1294,Sneha Iyer 294,Dibrugarh,Sweets,Quia Gift,Valentine's Day,2023-11-05,2023-11-14,2,4263,8526,6
+1295,Kabir Singh 295,Bilaspur,Soft Toys,Dolores Gift,Birthday,2023-02-11,2023-02-18,2,3269,6538,13
+1296,Rohan Verma 296,North Dumdum,Soft Toys,Harum Pack,Valentine's Day,2023-04-15,2023-04-18,2,3649,7298,8
+1297,Amit Deshmukh 297,Dibrugarh,Soft Toys,Harum Pack,Holi,2023-12-11,2023-12-16,3,3969,11907,18
+1298,Meera Rao 298,Imphal,Soft Toys,Harum Pack,Anniversary,2023-10-13,2023-10-17,1,1367,1367,15
+1299,Neha Joshi 299,Dibrugarh,Mugs,Quia Gift,Raksha Bandhan,2023-02-28,2023-03-05,1,3295,3295,19
+1300,Aarav Sharma 300,Bidhannagar,Soft Toys,Magnam Set,Anniversary,2023-02-28,2023-03-04,1,4424,4424,13
+1301,Meera Rao 301,Bilaspur,Soft Toys,Harum Pack,Birthday,2023-11-09,2023-11-12,1,837,837,12
+1302,Aditya Roy 302,Bilaspur,Cake,Magnam Set,Valentine's Day,2023-03-23,2023-03-29,1,873,873,18
+1303,Aarav Sharma 303,Dhanbad,Plants,Deserunt Box,Birthday,2023-08-17,2023-08-23,1,3349,3349,12
+1304,Priya Patel 304,Haridwar,Soft Toys,Dolores Gift,Holi,2023-02-13,2023-02-16,2,922,1844,11
+1305,Aditya Roy 305,Dibrugarh,Colors,Magnam Set,Birthday,2023-08-22,2023-08-26,1,534,534,17
+1306,Rohan Verma 306,Imphal,Mugs,Dolores Gift,Valentine's Day,2023-09-14,2023-09-20,1,1389,1389,7
+1307,Priya Patel 307,Bilaspur,Sweets,Deserunt Box,Raksha Bandhan,2023-08-12,2023-08-21,1,1072,1072,10
+1308,Rahul Sen 308,Bidhannagar,Colors,Quia Gift,Raksha Bandhan,2023-08-20,2023-08-24,3,609,1827,19
+1309,Rahul Sen 309,Dibrugarh,Colors,Quia Gift,Raksha Bandhan,2023-07-24,2023-07-29,2,3710,7420,20
+1310,Ananya Gupta 310,Imphal,Plants,Deserunt Box,Birthday,2023-07-20,2023-07-23,3,549,1647,22
+1311,Aditya Roy 311,Guntakal,Colors,Magnam Set,Raksha Bandhan,2023-04-18,2023-04-24,2,4409,8818,22
+1312,Priya Patel 312,Bhatpara,Raksha Bandhan,Deserunt Box,Anniversary,2023-03-02,2023-03-10,3,2130,6390,15
+1313,Rahul Sen 313,Kavali,Sweets,Magnam Set,Holi,2023-08-03,2023-08-09,1,1125,1125,11
+1314,Kabir Singh 314,Bidhannagar,Raksha Bandhan,Dolores Gift,Birthday,2023-08-13,2023-08-18,2,3161,6322,18
+1315,Priya Patel 315,Dibrugarh,Soft Toys,Magnam Set,Valentine's Day,2023-12-08,2023-12-11,1,2279,2279,8
+1316,Sneha Iyer 316,North Dumdum,Cake,Harum Pack,Valentine's Day,2023-09-24,2023-09-28,1,1062,1062,18
+1317,Rohan Verma 317,Imphal,Mugs,Quia Gift,Raksha Bandhan,2023-10-24,2023-10-28,1,3571,3571,19
+1318,Kabir Singh 318,Bidhannagar,Sweets,Deserunt Box,Diwali,2023-11-09,2023-11-14,1,4493,4493,16
+1319,Priya Patel 319,Imphal,Plants,Quia Gift,Diwali,2023-02-28,2023-03-05,1,1544,1544,19
+1320,Aditya Roy 320,North Dumdum,Soft Toys,Deserunt Box,Birthday,2023-09-01,2023-09-04,3,1501,4503,6
+1321,Neha Joshi 321,Haridwar,Colors,Dolores Gift,Anniversary,2023-08-23,2023-08-29,1,1818,1818,10
+1322,Aditya Roy 322,Guntakal,Mugs,Deserunt Box,Raksha Bandhan,2023-03-17,2023-03-23,1,1414,1414,19
+1323,Aarav Sharma 323,Haridwar,Cake,Magnam Set,Diwali,2023-10-10,2023-10-15,1,532,532,12
+1324,Kabir Singh 324,North Dumdum,Sweets,Harum Pack,Valentine's Day,2023-08-15,2023-08-20,4,3664,14656,19
+1325,Meera Rao 325,Kavali,Sweets,Dolores Gift,Birthday,2023-01-14,2023-01-17,1,3104,3104,19
+1326,Aditya Roy 326,Bhatpara,Mugs,Deserunt Box,Valentine's Day,2023-03-24,2023-03-30,1,2670,2670,22
+1327,Vikram Malhotra 327,Imphal,Cake,Dolores Gift,Valentine's Day,2023-03-02,2023-03-10,3,2628,7884,13
+1328,Aditya Roy 328,Guntakal,Plants,Deserunt Box,Raksha Bandhan,2023-02-05,2023-02-11,1,2924,2924,16
+1329,Vikram Malhotra 329,Bilaspur,Colors,Harum Pack,Diwali,2023-11-26,2023-12-01,2,1836,3672,11
+1330,Kabir Singh 330,Dhanbad,Cake,Dolores Gift,Birthday,2023-10-19,2023-10-23,1,2341,2341,14
+1331,Vikram Malhotra 331,Bidhannagar,Raksha Bandhan,Harum Pack,Birthday,2023-05-15,2023-05-19,1,1145,1145,19
+1332,Kabir Singh 332,North Dumdum,Cake,Dolores Gift,Diwali,2023-02-23,2023-02-27,1,2603,2603,6
+1333,Kabir Singh 333,Dibrugarh,Sweets,Dolores Gift,Anniversary,2023-12-28,2024-01-02,2,1523,3046,8
+1334,Priya Patel 334,Bilaspur,Cake,Deserunt Box,Anniversary,2023-11-08,2023-11-12,2,2024,4048,18
+1335,Rahul Sen 335,Bidhannagar,Raksha Bandhan,Quia Gift,Diwali,2023-11-03,2023-11-06,1,4196,4196,17
+1336,Karan Joshi 336,Bilaspur,Cake,Harum Pack,Anniversary,2023-01-15,2023-01-18,3,2274,6822,19
+1337,Vikram Malhotra 337,Imphal,Cake,Magnam Set,Valentine's Day,2023-04-12,2023-04-16,1,1646,1646,14
+1338,Rohan Verma 338,Bhatpara,Raksha Bandhan,Quia Gift,Raksha Bandhan,2023-02-10,2023-02-15,3,2462,7386,7
+1339,Kabir Singh 339,Haridwar,Colors,Magnam Set,Birthday,2023-08-26,2023-08-31,2,3785,7570,16
+1340,Aarav Sharma 340,Haridwar,Sweets,Harum Pack,Holi,2023-08-16,2023-08-21,1,1817,1817,13
+1341,Rohan Verma 341,Bhatpara,Mugs,Quia Gift,Birthday,2023-01-26,2023-02-01,1,2432,2432,15
+1342,Karan Joshi 342,North Dumdum,Colors,Dolores Gift,Anniversary,2023-02-08,2023-02-12,2,4257,8514,18
+1343,Karan Joshi 343,Dhanbad,Raksha Bandhan,Magnam Set,Diwali,2023-11-28,2023-12-02,1,1802,1802,19
+1344,Meera Rao 344,Guntakal,Raksha Bandhan,Deserunt Box,Valentine's Day,2023-08-19,2023-08-24,1,1271,1271,19
+1345,Karan Joshi 345,Imphal,Raksha Bandhan,Harum Pack,Birthday,2023-07-03,2023-07-06,2,581,1162,15
+1346,Aarav Sharma 346,Guntakal,Raksha Bandhan,Dolores Gift,Birthday,2023-03-06,2023-03-14,2,1825,3650,6
+1347,Rohan Verma 347,North Dumdum,Soft Toys,Dolores Gift,Anniversary,2023-11-28,2023-12-03,1,3385,3385,21
+1348,Vikram Malhotra 348,North Dumdum,Cake,Harum Pack,Diwali,2023-03-06,2023-03-12,1,3118,3118,22
+1349,Rahul Sen 349,Guntakal,Colors,Quia Gift,Valentine's Day,2023-11-20,2023-11-26,1,2912,2912,19
+1350,Vikram Malhotra 350,Dibrugarh,Soft Toys,Harum Pack,Birthday,2023-02-01,2023-02-09,3,2103,6309,20
+1351,Karan Joshi 351,North Dumdum,Cake,Dolores Gift,Raksha Bandhan,2023-03-26,2023-04-04,1,2816,2816,8
+1352,Pooja Nair 352,Bilaspur,Mugs,Deserunt Box,Birthday,2023-03-11,2023-03-15,3,863,2589,19
+1353,Rahul Sen 353,Guntakal,Plants,Deserunt Box,Diwali,2023-02-23,2023-02-26,1,942,942,18
+1354,Aarav Sharma 354,Haridwar,Plants,Magnam Set,Birthday,2023-11-16,2023-11-23,1,2037,2037,8
+1355,Pooja Nair 355,North Dumdum,Soft Toys,Dolores Gift,Birthday,2023-05-26,2023-06-02,1,1805,1805,10
+1356,Priya Patel 356,Bidhannagar,Mugs,Dolores Gift,Holi,2023-02-03,2023-02-08,3,881,2643,12
+1357,Sneha Iyer 357,Imphal,Soft Toys,Deserunt Box,Holi,2023-11-06,2023-11-12,1,719,719,8
+1358,Ananya Gupta 358,Dhanbad,Plants,Quia Gift,Valentine's Day,2023-11-18,2023-11-22,1,1472,1472,8
+1359,Vikram Malhotra 359,North Dumdum,Raksha Bandhan,Magnam Set,Birthday,2023-02-01,2023-02-06,1,3211,3211,17
+1360,Pooja Nair 360,Dhanbad,Cake,Deserunt Box,Birthday,2023-02-10,2023-02-19,1,973,973,11
+1361,Vikram Malhotra 361,Imphal,Plants,Harum Pack,Anniversary,2023-08-13,2023-08-17,3,2013,6039,9
+1362,Aarav Sharma 362,Dibrugarh,Plants,Magnam Set,Diwali,2023-02-09,2023-02-14,1,3352,3352,17
+1363,Priya Patel 363,Guntakal,Sweets,Quia Gift,Holi,2023-12-19,2023-12-23,1,2085,2085,19
+1364,Vikram Malhotra 364,Kavali,Soft Toys,Magnam Set,Raksha Bandhan,2023-11-16,2023-11-20,1,3997,3997,18
+1365,Amit Deshmukh 365,North Dumdum,Raksha Bandhan,Quia Gift,Valentine's Day,2023-12-05,2023-12-09,2,1208,2416,21
+1366,Rohan Verma 366,Dhanbad,Sweets,Dolores Gift,Birthday,2023-01-03,2023-01-12,1,3869,3869,17
+1367,Divya Menon 367,North Dumdum,Mugs,Harum Pack,Valentine's Day,2023-11-03,2023-11-06,1,2761,2761,11
+1368,Kabir Singh 368,Kavali,Plants,Deserunt Box,Valentine's Day,2023-08-17,2023-08-23,1,1112,1112,9
+1369,Sneha Iyer 369,North Dumdum,Sweets,Deserunt Box,Anniversary,2023-08-04,2023-08-10,3,4105,12315,12
+1370,Vikram Malhotra 370,Dibrugarh,Plants,Magnam Set,Raksha Bandhan,2023-08-02,2023-08-06,1,3032,3032,17
+1371,Meera Rao 371,Haridwar,Cake,Magnam Set,Diwali,2023-08-02,2023-08-08,3,4174,12522,12
+1372,Neha Joshi 372,Dibrugarh,Mugs,Harum Pack,Holi,2023-11-22,2023-11-25,3,1050,3150,11
+1373,Meera Rao 373,Imphal,Sweets,Harum Pack,Diwali,2023-08-20,2023-08-26,1,1365,1365,21
+1374,Vikram Malhotra 374,Imphal,Sweets,Quia Gift,Diwali,2023-11-17,2023-11-23,1,3406,3406,15
+1375,Rohan Verma 375,Kavali,Raksha Bandhan,Deserunt Box,Birthday,2023-02-27,2023-03-03,1,635,635,14
+1376,Aditya Roy 376,Guntakal,Soft Toys,Dolores Gift,Diwali,2023-03-15,2023-03-20,2,1007,2014,18
+1377,Ananya Gupta 377,Guntakal,Plants,Quia Gift,Holi,2023-02-28,2023-03-05,1,1910,1910,9
+1378,Aditya Roy 378,Dibrugarh,Soft Toys,Deserunt Box,Diwali,2023-01-02,2023-01-06,1,4452,4452,10
+1379,Ananya Gupta 379,Dhanbad,Soft Toys,Dolores Gift,Diwali,2023-08-17,2023-08-20,2,3643,7286,18
+1380,Pooja Nair 380,Bilaspur,Soft Toys,Dolores Gift,Raksha Bandhan,2023-11-08,2023-11-12,2,1751,3502,18
+1381,Meera Rao 381,Dibrugarh,Plants,Magnam Set,Diwali,2023-05-07,2023-05-12,2,3876,7752,17
+1382,Sneha Iyer 382,Bidhannagar,Cake,Quia Gift,Valentine's Day,2023-12-27,2024-01-01,2,2994,5988,11
+1383,Rahul Sen 383,Bidhannagar,Plants,Deserunt Box,Diwali,2023-12-21,2023-12-26,1,3187,3187,18
+1384,Aditya Roy 384,Dibrugarh,Colors,Dolores Gift,Raksha Bandhan,2023-09-02,2023-09-09,2,2957,5914,13
+1385,Neha Joshi 385,Bilaspur,Soft Toys,Deserunt Box,Valentine's Day,2023-07-10,2023-07-14,1,2090,2090,18
+1386,Sneha Iyer 386,North Dumdum,Sweets,Dolores Gift,Diwali,2023-08-08,2023-08-14,2,2448,4896,20
+1387,Rahul Sen 387,Guntakal,Raksha Bandhan,Harum Pack,Birthday,2023-11-18,2023-11-22,1,1024,1024,18
+1388,Meera Rao 388,Kavali,Sweets,Dolores Gift,Valentine's Day,2023-11-21,2023-11-24,1,3548,3548,20
+1389,Vikram Malhotra 389,Guntakal,Mugs,Harum Pack,Raksha Bandhan,2023-03-28,2023-04-01,1,3098,3098,16
+1390,Sneha Iyer 390,Bidhannagar,Plants,Dolores Gift,Raksha Bandhan,2023-02-22,2023-02-27,1,721,721,20
+1391,Rohan Verma 391,Bilaspur,Colors,Harum Pack,Holi,2023-12-15,2023-12-19,3,1238,3714,19
+1392,Pooja Nair 392,Guntakal,Soft Toys,Dolores Gift,Diwali,2023-08-01,2023-08-06,1,3668,3668,9
+1393,Karan Joshi 393,Bilaspur,Plants,Deserunt Box,Birthday,2023-08-21,2023-08-26,1,2455,2455,13
+1394,Aarav Sharma 394,Kavali,Colors,Harum Pack,Anniversary,2023-11-25,2023-12-02,1,3271,3271,0
+1395,Meera Rao 395,Dhanbad,Colors,Harum Pack,Diwali,2023-02-13,2023-02-18,1,767,767,19
+1396,Kabir Singh 396,Dibrugarh,Plants,Quia Gift,Raksha Bandhan,2023-08-14,2023-08-21,4,1903,7612,23
+1397,Pooja Nair 397,Guntakal,Sweets,Dolores Gift,Birthday,2023-11-26,2023-12-01,1,3478,3478,22
+1398,Ananya Gupta 398,Bhatpara,Raksha Bandhan,Quia Gift,Birthday,2023-02-23,2023-03-01,1,4090,4090,17
+1399,Karan Joshi 399,Kavali,Raksha Bandhan,Deserunt Box,Raksha Bandhan,2023-12-22,2023-12-26,2,697,1394,18
+1400,Vikram Malhotra 400,Imphal,Plants,Deserunt Box,Raksha Bandhan,2023-03-23,2023-03-27,2,3081,6162,1
+1401,Vikram Malhotra 401,Bidhannagar,Soft Toys,Quia Gift,Diwali,2023-08-23,2023-08-27,2,929,1858,15
+1402,Sneha Iyer 402,Bidhannagar,Mugs,Deserunt Box,Anniversary,2023-07-20,2023-07-24,1,2642,2642,22
+1403,Neha Joshi 403,Haridwar,Mugs,Dolores Gift,Anniversary,2023-08-07,2023-08-13,1,1460,1460,0
+1404,Rahul Sen 404,Bidhannagar,Cake,Quia Gift,Valentine's Day,2023-07-03,2023-07-09,1,3463,3463,8
+1405,Kabir Singh 405,Dhanbad,Plants,Harum Pack,Diwali,2023-06-04,2023-06-11,3,3990,11970,11
+1406,Karan Joshi 406,Guntakal,Plants,Deserunt Box,Anniversary,2023-11-02,2023-11-05,1,3150,3150,9
+1407,Neha Joshi 407,Imphal,Raksha Bandhan,Harum Pack,Valentine's Day,2023-02-27,2023-03-04,1,2139,2139,22
+1408,Kabir Singh 408,Haridwar,Soft Toys,Magnam Set,Holi,2023-08-26,2023-08-30,1,3475,3475,6
+1409,Divya Menon 409,Bilaspur,Cake,Magnam Set,Raksha Bandhan,2023-06-19,2023-06-25,1,2055,2055,19
+1410,Sneha Iyer 410,Bhatpara,Sweets,Dolores Gift,Holi,2023-11-04,2023-11-11,1,759,759,10
+1411,Neha Joshi 411,Bhatpara,Soft Toys,Quia Gift,Valentine's Day,2023-08-19,2023-08-23,4,4076,16304,12
+1412,Amit Deshmukh 412,North Dumdum,Cake,Magnam Set,Valentine's Day,2023-08-16,2023-08-21,2,2076,4152,9
+1413,Divya Menon 413,Kavali,Raksha Bandhan,Deserunt Box,Anniversary,2023-08-06,2023-08-11,1,2530,2530,20
+1414,Priya Patel 414,Imphal,Mugs,Dolores Gift,Diwali,2023-12-02,2023-12-07,1,2050,2050,13
+1415,Ananya Gupta 415,Bidhannagar,Plants,Magnam Set,Raksha Bandhan,2023-05-28,2023-06-02,1,2537,2537,18
+1416,Aarav Sharma 416,Bidhannagar,Plants,Magnam Set,Anniversary,2023-08-01,2023-08-08,2,4445,8890,17
+1417,Kabir Singh 417,Kavali,Raksha Bandhan,Dolores Gift,Valentine's Day,2023-08-11,2023-08-16,1,1413,1413,19
+1418,Neha Joshi 418,Kavali,Sweets,Quia Gift,Raksha Bandhan,2023-06-22,2023-06-27,1,899,899,19
+1419,Ananya Gupta 419,Bhatpara,Mugs,Harum Pack,Valentine's Day,2023-12-10,2023-12-15,1,935,935,6
+1420,Rohan Verma 420,Imphal,Colors,Magnam Set,Anniversary,2023-03-07,2023-03-11,3,2109,6327,10
+1421,Divya Menon 421,Dhanbad,Soft Toys,Harum Pack,Anniversary,2023-09-02,2023-09-10,2,2911,5822,8
+1422,Aditya Roy 422,Imphal,Plants,Quia Gift,Raksha Bandhan,2023-02-16,2023-02-19,2,2766,5532,21
+1423,Divya Menon 423,North Dumdum,Plants,Quia Gift,Birthday,2023-08-06,2023-08-12,1,2086,2086,17
+1424,Sneha Iyer 424,Guntakal,Raksha Bandhan,Magnam Set,Holi,2023-12-23,2023-12-29,1,4446,4446,12
+1425,Kabir Singh 425,Imphal,Sweets,Dolores Gift,Birthday,2023-04-23,2023-04-30,1,3953,3953,18
+1426,Divya Menon 426,Guntakal,Soft Toys,Quia Gift,Valentine's Day,2023-02-07,2023-02-13,1,1914,1914,21
+1427,Rohan Verma 427,Bilaspur,Raksha Bandhan,Quia Gift,Valentine's Day,2023-08-23,2023-08-27,1,2467,2467,16
+1428,Rahul Sen 428,Haridwar,Soft Toys,Quia Gift,Diwali,2023-11-14,2023-11-21,1,603,603,13
+1429,Aarav Sharma 429,Bhatpara,Colors,Harum Pack,Birthday,2023-12-22,2023-12-26,2,3328,6656,19
+1430,Ananya Gupta 430,Kavali,Cake,Harum Pack,Holi,2023-02-28,2023-03-06,1,1418,1418,18
+1431,Amit Deshmukh 431,Haridwar,Colors,Quia Gift,Valentine's Day,2023-03-22,2023-03-25,1,2206,2206,21
+1432,Rahul Sen 432,Guntakal,Raksha Bandhan,Deserunt Box,Anniversary,2023-09-07,2023-09-13,2,4064,8128,14
+1433,Ananya Gupta 433,Guntakal,Sweets,Quia Gift,Raksha Bandhan,2023-08-07,2023-08-13,4,1704,6816,14
+1434,Rahul Sen 434,Bidhannagar,Colors,Dolores Gift,Valentine's Day,2023-07-13,2023-07-16,1,1582,1582,8
+1435,Sneha Iyer 435,Dibrugarh,Cake,Harum Pack,Holi,2023-08-05,2023-08-08,3,2944,8832,6
+1436,Aditya Roy 436,North Dumdum,Sweets,Harum Pack,Holi,2023-10-18,2023-10-23,2,1801,3602,15
+1437,Rohan Verma 437,Kavali,Cake,Quia Gift,Birthday,2023-04-18,2023-04-23,1,4118,4118,10
+1438,Neha Joshi 438,Guntakal,Mugs,Harum Pack,Birthday,2023-12-20,2023-12-25,4,3873,15492,18
+1439,Rahul Sen 439,Bhatpara,Cake,Harum Pack,Holi,2023-02-21,2023-02-27,2,4427,8854,5
+1440,Aditya Roy 440,Guntakal,Plants,Deserunt Box,Holi,2023-03-24,2023-03-28,3,3867,11601,19
+1441,Amit Deshmukh 441,Kavali,Plants,Magnam Set,Anniversary,2023-03-21,2023-03-25,1,4383,4383,8
+1442,Karan Joshi 442,Kavali,Raksha Bandhan,Deserunt Box,Valentine's Day,2023-02-22,2023-02-28,1,3307,3307,13
+1443,Priya Patel 443,Dhanbad,Raksha Bandhan,Magnam Set,Valentine's Day,2023-11-03,2023-11-09,1,2380,2380,18
+1444,Aarav Sharma 444,Bidhannagar,Cake,Deserunt Box,Birthday,2023-10-18,2023-10-21,2,4231,8462,10
+1445,Vikram Malhotra 445,Imphal,Soft Toys,Magnam Set,Holi,2023-03-13,2023-03-19,1,3127,3127,18
+1446,Priya Patel 446,North Dumdum,Cake,Deserunt Box,Diwali,2023-11-04,2023-11-08,2,2984,5968,7
+1447,Karan Joshi 447,Imphal,Plants,Magnam Set,Valentine's Day,2023-01-06,2023-01-11,1,2101,2101,19
+1448,Divya Menon 448,Kavali,Mugs,Dolores Gift,Diwali,2023-08-26,2023-09-02,2,4421,8842,21
+1449,Amit Deshmukh 449,Kavali,Colors,Deserunt Box,Anniversary,2023-01-20,2023-01-25,1,848,848,11
+1450,Meera Rao 450,Guntakal,Colors,Magnam Set,Valentine's Day,2023-11-05,2023-11-09,1,3919,3919,10
+1451,Priya Patel 451,Bilaspur,Soft Toys,Quia Gift,Anniversary,2023-11-18,2023-11-23,1,1690,1690,17
+1452,Kabir Singh 452,Bidhannagar,Colors,Quia Gift,Holi,2023-12-12,2023-12-16,2,909,1818,11
+1453,Priya Patel 453,Dhanbad,Mugs,Magnam Set,Holi,2023-03-22,2023-03-27,1,2816,2816,16
+1454,Karan Joshi 454,Guntakal,Plants,Dolores Gift,Anniversary,2023-03-26,2023-03-30,2,2286,4572,11
+1455,Neha Joshi 455,Bilaspur,Soft Toys,Harum Pack,Holi,2023-06-12,2023-06-18,1,945,945,9
+1456,Sneha Iyer 456,Bidhannagar,Sweets,Harum Pack,Birthday,2023-11-07,2023-11-11,3,813,2439,18
+1457,Aditya Roy 457,Bhatpara,Sweets,Quia Gift,Valentine's Day,2023-01-19,2023-01-24,2,1371,2742,20
+1458,Amit Deshmukh 458,Dibrugarh,Raksha Bandhan,Quia Gift,Holi,2023-08-05,2023-08-10,1,3662,3662,16
+1459,Divya Menon 459,Dibrugarh,Colors,Magnam Set,Raksha Bandhan,2023-07-13,2023-07-18,1,1478,1478,19
+1460,Karan Joshi 460,North Dumdum,Soft Toys,Dolores Gift,Raksha Bandhan,2023-02-06,2023-02-10,3,3200,9600,20
+1461,Rohan Verma 461,Imphal,Mugs,Deserunt Box,Birthday,2023-09-08,2023-09-11,1,675,675,17
+1462,Amit Deshmukh 462,Guntakal,Plants,Magnam Set,Holi,2023-11-02,2023-11-11,1,3382,3382,22
+1463,Rahul Sen 463,Dibrugarh,Sweets,Harum Pack,Raksha Bandhan,2023-08-06,2023-08-11,1,2907,2907,17
+1464,Divya Menon 464,Bidhannagar,Raksha Bandhan,Harum Pack,Holi,2023-12-08,2023-12-13,1,4054,4054,12
+1465,Karan Joshi 465,Imphal,Raksha Bandhan,Deserunt Box,Raksha Bandhan,2023-11-15,2023-11-19,1,3135,3135,11
+1466,Rohan Verma 466,Bilaspur,Colors,Harum Pack,Raksha Bandhan,2023-08-04,2023-08-10,1,1852,1852,18
+1467,Pooja Nair 467,Imphal,Plants,Dolores Gift,Raksha Bandhan,2023-02-27,2023-03-04,1,1023,1023,16
+1468,Rohan Verma 468,Bilaspur,Soft Toys,Quia Gift,Anniversary,2023-11-05,2023-11-08,1,1237,1237,15
+1469,Vikram Malhotra 469,North Dumdum,Raksha Bandhan,Deserunt Box,Valentine's Day,2023-08-27,2023-08-31,1,2339,2339,17
+1470,Pooja Nair 470,Imphal,Colors,Dolores Gift,Holi,2023-08-26,2023-08-31,2,3052,6104,17
+1471,Kabir Singh 471,Bilaspur,Soft Toys,Harum Pack,Holi,2023-08-03,2023-08-07,1,944,944,2
+1472,Amit Deshmukh 472,Kavali,Soft Toys,Magnam Set,Birthday,2023-08-06,2023-08-11,2,659,1318,20
+1473,Amit Deshmukh 473,Kavali,Sweets,Deserunt Box,Anniversary,2023-06-05,2023-06-13,1,504,504,20
+1474,Karan Joshi 474,Haridwar,Raksha Bandhan,Magnam Set,Diwali,2023-11-23,2023-11-28,1,3786,3786,14
+1475,Karan Joshi 475,Haridwar,Mugs,Quia Gift,Valentine's Day,2023-11-27,2023-12-03,1,1048,1048,10
+1476,Karan Joshi 476,Dhanbad,Sweets,Deserunt Box,Diwali,2023-08-18,2023-08-23,1,3404,3404,18
+1477,Aarav Sharma 477,North Dumdum,Raksha Bandhan,Deserunt Box,Raksha Bandhan,2023-01-21,2023-01-25,2,2174,4348,12
+1478,Rohan Verma 478,Haridwar,Soft Toys,Quia Gift,Diwali,2023-03-18,2023-03-23,1,1628,1628,23
+1479,Vikram Malhotra 479,Dhanbad,Plants,Quia Gift,Raksha Bandhan,2023-06-12,2023-06-17,1,1756,1756,16
+1480,Karan Joshi 480,Haridwar,Soft Toys,Dolores Gift,Valentine's Day,2023-02-08,2023-02-13,2,1162,2324,8
+1481,Amit Deshmukh 481,Haridwar,Sweets,Harum Pack,Raksha Bandhan,2023-08-22,2023-08-28,1,4450,4450,17
+1482,Karan Joshi 482,Bidhannagar,Sweets,Dolores Gift,Holi,2023-11-14,2023-11-17,1,2018,2018,7
+1483,Aarav Sharma 483,Haridwar,Plants,Quia Gift,Valentine's Day,2023-08-23,2023-09-01,1,3668,3668,19
+1484,Rahul Sen 484,Imphal,Plants,Deserunt Box,Birthday,2023-11-26,2023-12-01,1,3711,3711,16
+1485,Amit Deshmukh 485,Dhanbad,Raksha Bandhan,Dolores Gift,Valentine's Day,2023-01-08,2023-01-14,4,855,3420,23
+1486,Karan Joshi 486,Haridwar,Mugs,Magnam Set,Holi,2023-08-17,2023-08-20,2,4264,8528,7
+1487,Kabir Singh 487,Kavali,Raksha Bandhan,Harum Pack,Diwali,2023-12-09,2023-12-13,4,2362,9448,21
+1488,Sneha Iyer 488,Bhatpara,Mugs,Dolores Gift,Holi,2023-07-18,2023-07-21,1,4378,4378,8
+1489,Amit Deshmukh 489,Dibrugarh,Raksha Bandhan,Quia Gift,Diwali,2023-08-13,2023-08-18,2,3602,7204,12
+1490,Karan Joshi 490,Imphal,Soft Toys,Magnam Set,Raksha Bandhan,2023-11-16,2023-11-20,1,3095,3095,19
+1491,Ananya Gupta 491,Dhanbad,Sweets,Harum Pack,Holi,2023-12-17,2023-12-22,2,1578,3156,10
+1492,Priya Patel 492,Haridwar,Soft Toys,Harum Pack,Anniversary,2023-08-06,2023-08-11,1,4163,4163,16
+1493,Rohan Verma 493,Dhanbad,Plants,Dolores Gift,Birthday,2023-08-28,2023-09-01,1,3919,3919,10
+1494,Sneha Iyer 494,Guntakal,Colors,Deserunt Box,Anniversary,2023-11-22,2023-12-01,1,527,527,19
+1495,Amit Deshmukh 495,Bhatpara,Sweets,Magnam Set,Diwali,2023-08-16,2023-08-23,3,2853,8559,20
+1496,Pooja Nair 496,Bilaspur,Sweets,Quia Gift,Diwali,2023-03-25,2023-03-30,1,3773,3773,13
+1497,Amit Deshmukh 497,Bhatpara,Raksha Bandhan,Harum Pack,Holi,2023-11-25,2023-11-29,4,3360,13440,15
+1498,Neha Joshi 498,Bhatpara,Cake,Dolores Gift,Holi,2023-08-11,2023-08-16,3,1266,3798,16
+1499,Ananya Gupta 499,Dibrugarh,Plants,Quia Gift,Diwali,2023-03-16,2023-03-21,1,3580,3580,12
+1500,Divya Menon 500,Haridwar,Mugs,Magnam Set,Birthday,2023-08-19,2023-08-25,2,3452,6904,10
+1501,Ananya Gupta 501,Kavali,Plants,Magnam Set,Birthday,2023-02-24,2023-02-28,2,1223,2446,13
+1502,Rohan Verma 502,Kavali,Raksha Bandhan,Harum Pack,Holi,2023-03-18,2023-03-25,1,905,905,18
+1503,Aarav Sharma 503,Dhanbad,Sweets,Harum Pack,Holi,2023-11-04,2023-11-09,1,1978,1978,12
+1504,Amit Deshmukh 504,Dibrugarh,Mugs,Deserunt Box,Holi,2023-02-28,2023-03-06,2,2862,5724,16
+1505,Rahul Sen 505,Kavali,Colors,Harum Pack,Diwali,2023-03-17,2023-03-22,2,4143,8286,7
+1506,Sneha Iyer 506,Dibrugarh,Plants,Dolores Gift,Birthday,2023-08-11,2023-08-16,2,2157,4314,19
+1507,Priya Patel 507,Bidhannagar,Colors,Harum Pack,Birthday,2023-03-21,2023-03-25,1,3140,3140,13
+1508,Aditya Roy 508,Imphal,Sweets,Harum Pack,Valentine's Day,2023-08-15,2023-08-20,1,594,594,8
+1509,Ananya Gupta 509,Dibrugarh,Soft Toys,Deserunt Box,Birthday,2023-02-04,2023-02-07,3,2438,7314,16
+1510,Aarav Sharma 510,Haridwar,Raksha Bandhan,Deserunt Box,Anniversary,2023-03-05,2023-03-08,3,2096,6288,11
+1511,Ananya Gupta 511,Dibrugarh,Plants,Dolores Gift,Birthday,2023-08-06,2023-08-09,2,4024,8048,21
+1512,Divya Menon 512,Imphal,Plants,Quia Gift,Diwali,2023-08-05,2023-08-14,2,1225,2450,16
+1513,Pooja Nair 513,North Dumdum,Plants,Quia Gift,Valentine's Day,2023-08-10,2023-08-18,1,1430,1430,19
+1514,Pooja Nair 514,Dibrugarh,Mugs,Magnam Set,Diwali,2023-02-01,2023-02-04,2,3973,7946,8
+1515,Kabir Singh 515,Imphal,Raksha Bandhan,Deserunt Box,Valentine's Day,2023-11-25,2023-11-30,1,2263,2263,19
+1516,Sneha Iyer 516,Dhanbad,Sweets,Deserunt Box,Raksha Bandhan,2023-03-14,2023-03-21,1,1523,1523,9
+1517,Meera Rao 517,Haridwar,Sweets,Magnam Set,Birthday,2023-03-14,2023-03-20,1,3776,3776,21
+1518,Karan Joshi 518,Dibrugarh,Mugs,Quia Gift,Diwali,2023-04-28,2023-05-01,1,952,952,17
+1519,Sneha Iyer 519,Imphal,Mugs,Quia Gift,Holi,2023-02-01,2023-02-05,4,590,2360,9
+1520,Priya Patel 520,Dibrugarh,Mugs,Dolores Gift,Valentine's Day,2023-05-01,2023-05-05,1,2521,2521,10
+1521,Vikram Malhotra 521,Dibrugarh,Sweets,Magnam Set,Diwali,2023-06-26,2023-06-29,1,3574,3574,21
+1522,Aarav Sharma 522,Dibrugarh,Sweets,Magnam Set,Anniversary,2023-08-06,2023-08-10,2,3847,7694,13
+1523,Aarav Sharma 523,Bidhannagar,Sweets,Dolores Gift,Holi,2023-10-15,2023-10-19,4,1315,5260,14
+1524,Karan Joshi 524,Bidhannagar,Raksha Bandhan,Dolores Gift,Holi,2023-03-10,2023-03-18,1,3482,3482,6
+1525,Aditya Roy 525,Kavali,Raksha Bandhan,Deserunt Box,Diwali,2023-06-10,2023-06-14,3,4037,12111,17
+1526,Priya Patel 526,Dhanbad,Soft Toys,Magnam Set,Diwali,2023-01-26,2023-01-30,1,3732,3732,10
+1527,Aarav Sharma 527,North Dumdum,Sweets,Magnam Set,Valentine's Day,2023-08-12,2023-08-18,1,2547,2547,8
+1528,Sneha Iyer 528,Guntakal,Sweets,Deserunt Box,Anniversary,2023-03-05,2023-03-11,2,1015,2030,14
+1529,Neha Joshi 529,Kavali,Sweets,Harum Pack,Holi,2023-08-01,2023-08-07,1,1051,1051,10
+1530,Aarav Sharma 530,Imphal,Soft Toys,Magnam Set,Raksha Bandhan,2023-03-23,2023-03-28,1,2726,2726,12
+1531,Meera Rao 531,Imphal,Mugs,Quia Gift,Raksha Bandhan,2023-02-17,2023-02-21,1,1578,1578,15
+1532,Pooja Nair 532,Bhatpara,Sweets,Quia Gift,Holi,2023-08-01,2023-08-07,1,3040,3040,10
+1533,Meera Rao 533,Bidhannagar,Soft Toys,Quia Gift,Holi,2023-02-22,2023-02-27,1,3011,3011,11
+1534,Vikram Malhotra 534,Guntakal,Cake,Deserunt Box,Raksha Bandhan,2023-08-02,2023-08-09,1,4077,4077,5
+1535,Priya Patel 535,Imphal,Colors,Deserunt Box,Anniversary,2023-08-27,2023-09-01,1,3055,3055,18
+1536,Kabir Singh 536,Bhatpara,Mugs,Dolores Gift,Raksha Bandhan,2023-08-01,2023-08-09,1,2512,2512,21
+1537,Divya Menon 537,Bidhannagar,Plants,Deserunt Box,Diwali,2023-08-14,2023-08-21,2,738,1476,19
+1538,Kabir Singh 538,Kavali,Cake,Deserunt Box,Diwali,2023-02-07,2023-02-16,1,3470,3470,10
+1539,Vikram Malhotra 539,Dhanbad,Colors,Quia Gift,Valentine's Day,2023-02-21,2023-03-01,1,2786,2786,13
+1540,Priya Patel 540,North Dumdum,Mugs,Magnam Set,Valentine's Day,2023-08-04,2023-08-08,1,2144,2144,15
+1541,Rahul Sen 541,Bilaspur,Raksha Bandhan,Quia Gift,Holi,2023-11-11,2023-11-16,4,3960,15840,12
+1542,Karan Joshi 542,Haridwar,Sweets,Harum Pack,Raksha Bandhan,2023-02-18,2023-02-22,2,4293,8586,18
+1543,Neha Joshi 543,Imphal,Plants,Magnam Set,Anniversary,2023-08-10,2023-08-15,1,4146,4146,11
+1544,Kabir Singh 544,Dhanbad,Colors,Harum Pack,Anniversary,2023-10-23,2023-10-30,3,2594,7782,16
+1545,Aditya Roy 545,North Dumdum,Colors,Deserunt Box,Anniversary,2023-06-05,2023-06-09,1,2884,2884,10
+1546,Kabir Singh 546,Dibrugarh,Cake,Quia Gift,Holi,2023-08-07,2023-08-13,2,3747,7494,14
+1547,Pooja Nair 547,North Dumdum,Sweets,Deserunt Box,Raksha Bandhan,2023-08-02,2023-08-08,1,821,821,19
+1548,Aditya Roy 548,Guntakal,Mugs,Magnam Set,Holi,2023-11-04,2023-11-11,1,3173,3173,20
+1549,Aditya Roy 549,Bhatpara,Soft Toys,Magnam Set,Anniversary,2023-03-02,2023-03-07,1,1838,1838,15
+1550,Ananya Gupta 550,Bilaspur,Cake,Magnam Set,Holi,2023-09-19,2023-09-24,1,1686,1686,19
+1551,Rohan Verma 551,Bilaspur,Mugs,Deserunt Box,Holi,2023-08-02,2023-08-07,1,2132,2132,15
+1552,Karan Joshi 552,Bilaspur,Sweets,Dolores Gift,Holi,2023-08-16,2023-08-21,1,2798,2798,17
+1553,Meera Rao 553,Kavali,Colors,Dolores Gift,Anniversary,2023-03-14,2023-03-19,3,866,2598,8
+1554,Vikram Malhotra 554,Haridwar,Mugs,Harum Pack,Birthday,2023-03-20,2023-03-26,2,1193,2386,22
+1555,Sneha Iyer 555,Imphal,Raksha Bandhan,Dolores Gift,Holi,2023-01-27,2023-01-31,2,1138,2276,18
+1556,Divya Menon 556,Bidhannagar,Cake,Deserunt Box,Birthday,2023-11-05,2023-11-12,2,556,1112,12
+1557,Karan Joshi 557,Bidhannagar,Mugs,Magnam Set,Holi,2023-01-07,2023-01-13,1,2738,2738,15
+1558,Kabir Singh 558,Kavali,Plants,Quia Gift,Valentine's Day,2023-12-23,2023-12-29,1,2887,2887,20
+1559,Amit Deshmukh 559,Bhatpara,Mugs,Dolores Gift,Anniversary,2023-03-26,2023-04-01,1,2404,2404,17
+1560,Aarav Sharma 560,Bidhannagar,Plants,Harum Pack,Valentine's Day,2023-11-22,2023-11-27,1,1698,1698,20
+1561,Rahul Sen 561,Haridwar,Colors,Magnam Set,Raksha Bandhan,2023-12-04,2023-12-12,1,2945,2945,15
+1562,Rohan Verma 562,Dhanbad,Raksha Bandhan,Magnam Set,Raksha Bandhan,2023-11-01,2023-11-04,3,1748,5244,12
+1563,Vikram Malhotra 563,Bilaspur,Cake,Harum Pack,Valentine's Day,2023-03-21,2023-03-26,4,2553,10212,11
+1564,Aarav Sharma 564,Dibrugarh,Plants,Deserunt Box,Raksha Bandhan,2023-11-08,2023-11-12,3,3190,9570,8
+1565,Meera Rao 565,Haridwar,Raksha Bandhan,Quia Gift,Valentine's Day,2023-08-14,2023-08-18,1,4475,4475,11
+1566,Sneha Iyer 566,Guntakal,Plants,Quia Gift,Birthday,2023-02-05,2023-02-10,2,1328,2656,20
+1567,Kabir Singh 567,Kavali,Colors,Magnam Set,Birthday,2023-08-19,2023-08-27,1,2782,2782,15
+1568,Meera Rao 568,Bidhannagar,Colors,Harum Pack,Birthday,2023-08-25,2023-08-30,4,4437,17748,13
+1569,Pooja Nair 569,Dibrugarh,Colors,Dolores Gift,Anniversary,2023-02-01,2023-02-07,2,1593,3186,17
+1570,Sneha Iyer 570,Dhanbad,Raksha Bandhan,Dolores Gift,Birthday,2023-08-12,2023-08-15,2,1049,2098,15
+1571,Sneha Iyer 571,Imphal,Soft Toys,Harum Pack,Birthday,2023-11-16,2023-11-21,1,1426,1426,5
+1572,Karan Joshi 572,Bhatpara,Mugs,Magnam Set,Birthday,2023-09-07,2023-09-13,1,4297,4297,21
+1573,Pooja Nair 573,North Dumdum,Plants,Harum Pack,Holi,2023-11-14,2023-11-19,1,3511,3511,19
+1574,Meera Rao 574,Guntakal,Plants,Quia Gift,Valentine's Day,2023-08-18,2023-08-23,3,3723,11169,5
+1575,Priya Patel 575,Imphal,Plants,Deserunt Box,Birthday,2023-07-13,2023-07-22,1,2086,2086,15
+1576,Rahul Sen 576,Bhatpara,Colors,Harum Pack,Holi,2023-03-10,2023-03-16,1,1181,1181,13
+1577,Sneha Iyer 577,Bhatpara,Soft Toys,Quia Gift,Birthday,2023-06-21,2023-06-26,2,963,1926,9
+1578,Sneha Iyer 578,Kavali,Colors,Magnam Set,Holi,2023-03-01,2023-03-05,1,3418,3418,20
+1579,Aditya Roy 579,Imphal,Cake,Harum Pack,Diwali,2023-08-23,2023-08-29,2,1006,2012,8
+1580,Meera Rao 580,Imphal,Soft Toys,Harum Pack,Anniversary,2023-08-13,2023-08-19,4,3007,12028,21
+1581,Vikram Malhotra 581,Kavali,Plants,Deserunt Box,Birthday,2023-11-19,2023-11-26,3,1164,3492,20
+1582,Rohan Verma 582,Bhatpara,Plants,Harum Pack,Diwali,2023-08-15,2023-08-19,1,4180,4180,8
+1583,Ananya Gupta 583,Bhatpara,Raksha Bandhan,Harum Pack,Anniversary,2023-05-28,2023-06-02,2,2990,5980,20
+1584,Ananya Gupta 584,Dhanbad,Raksha Bandhan,Magnam Set,Holi,2023-04-03,2023-04-09,1,4113,4113,16
+1585,Sneha Iyer 585,Kavali,Sweets,Dolores Gift,Anniversary,2023-02-02,2023-02-08,1,3997,3997,5
+1586,Sneha Iyer 586,North Dumdum,Mugs,Harum Pack,Anniversary,2023-01-14,2023-01-23,1,1664,1664,17
+1587,Meera Rao 587,North Dumdum,Raksha Bandhan,Quia Gift,Birthday,2023-12-24,2023-12-29,3,881,2643,19
+1588,Neha Joshi 588,Guntakal,Plants,Deserunt Box,Holi,2023-11-03,2023-11-07,1,3345,3345,20
+1589,Neha Joshi 589,Kavali,Plants,Quia Gift,Birthday,2023-08-20,2023-08-23,1,3076,3076,15
+1590,Priya Patel 590,Imphal,Soft Toys,Quia Gift,Valentine's Day,2023-03-20,2023-03-27,1,2855,2855,23
+1591,Neha Joshi 591,Bilaspur,Raksha Bandhan,Quia Gift,Holi,2023-07-21,2023-07-26,2,4119,8238,17
+1592,Meera Rao 592,Dibrugarh,Colors,Deserunt Box,Anniversary,2023-01-21,2023-01-27,2,1349,2698,19
+1593,Vikram Malhotra 593,Haridwar,Cake,Harum Pack,Diwali,2023-08-21,2023-08-25,2,3326,6652,11
+1594,Karan Joshi 594,Bidhannagar,Mugs,Harum Pack,Raksha Bandhan,2023-08-25,2023-08-28,2,1898,3796,13
+1595,Sneha Iyer 595,North Dumdum,Cake,Dolores Gift,Birthday,2023-03-11,2023-03-19,1,2443,2443,19
+1596,Rahul Sen 596,Bilaspur,Plants,Dolores Gift,Valentine's Day,2023-06-28,2023-07-03,1,3711,3711,19
+1597,Aditya Roy 597,Bhatpara,Sweets,Quia Gift,Diwali,2023-08-22,2023-08-27,1,1353,1353,16
+1598,Neha Joshi 598,Guntakal,Cake,Dolores Gift,Diwali,2023-11-11,2023-11-20,2,3950,7900,9
+1599,Sneha Iyer 599,Haridwar,Colors,Quia Gift,Anniversary,2023-11-25,2023-11-30,3,3407,10221,5
+1600,Vikram Malhotra 600,Bidhannagar,Plants,Dolores Gift,Diwali,2023-05-10,2023-05-14,1,959,959,12
+1601,Aarav Sharma 601,Dhanbad,Cake,Magnam Set,Raksha Bandhan,2023-01-16,2023-01-24,1,1893,1893,21
+1602,Meera Rao 602,Kavali,Mugs,Harum Pack,Birthday,2023-09-04,2023-09-11,3,3271,9813,23
+1603,Ananya Gupta 603,Bhatpara,Plants,Magnam Set,Valentine's Day,2023-11-04,2023-11-07,3,3314,9942,19
+1604,Divya Menon 604,Bidhannagar,Mugs,Magnam Set,Anniversary,2023-02-25,2023-03-03,1,2865,2865,18
+1605,Rahul Sen 605,Dhanbad,Mugs,Dolores Gift,Birthday,2023-03-18,2023-03-23,1,981,981,11
+1606,Rohan Verma 606,Dibrugarh,Cake,Deserunt Box,Raksha Bandhan,2023-08-04,2023-08-08,1,1804,1804,10
+1607,Meera Rao 607,Dibrugarh,Raksha Bandhan,Dolores Gift,Birthday,2023-02-20,2023-02-27,1,707,707,8
+1608,Pooja Nair 608,Bhatpara,Cake,Magnam Set,Anniversary,2023-02-13,2023-02-17,1,2927,2927,17
+1609,Meera Rao 609,Imphal,Raksha Bandhan,Harum Pack,Diwali,2023-03-07,2023-03-13,2,2685,5370,7
+1610,Aditya Roy 610,Imphal,Raksha Bandhan,Dolores Gift,Anniversary,2023-11-23,2023-11-28,1,3303,3303,17
+1611,Karan Joshi 611,Imphal,Plants,Dolores Gift,Birthday,2023-02-20,2023-02-24,1,1251,1251,18
+1612,Rahul Sen 612,Guntakal,Sweets,Harum Pack,Holi,2023-06-03,2023-06-08,1,2389,2389,19
+1613,Kabir Singh 613,Guntakal,Raksha Bandhan,Quia Gift,Birthday,2023-07-13,2023-07-20,2,1834,3668,16
+1614,Priya Patel 614,Dibrugarh,Raksha Bandhan,Magnam Set,Holi,2023-08-08,2023-08-14,1,4489,4489,14
+1615,Priya Patel 615,Guntakal,Colors,Quia Gift,Holi,2023-10-14,2023-10-19,1,3343,3343,10
+1616,Rahul Sen 616,Bidhannagar,Soft Toys,Quia Gift,Holi,2023-02-20,2023-02-25,1,3867,3867,14
+1617,Kabir Singh 617,Haridwar,Cake,Quia Gift,Anniversary,2023-08-20,2023-08-26,1,2524,2524,17
+1618,Aarav Sharma 618,Bidhannagar,Colors,Dolores Gift,Raksha Bandhan,2023-11-21,2023-11-28,2,3206,6412,9
+1619,Amit Deshmukh 619,Dibrugarh,Plants,Quia Gift,Raksha Bandhan,2023-05-07,2023-05-13,1,2835,2835,19
+1620,Rahul Sen 620,Dibrugarh,Plants,Harum Pack,Anniversary,2023-08-20,2023-08-29,1,1022,1022,20
+1621,Aarav Sharma 621,Guntakal,Raksha Bandhan,Deserunt Box,Anniversary,2023-08-27,2023-09-05,1,1655,1655,20
+1622,Ananya Gupta 622,Haridwar,Soft Toys,Quia Gift,Holi,2023-08-23,2023-08-28,1,2732,2732,10
+1623,Rohan Verma 623,Imphal,Colors,Dolores Gift,Raksha Bandhan,2023-03-12,2023-03-19,1,4074,4074,17
+1624,Rohan Verma 624,Bhatpara,Cake,Deserunt Box,Birthday,2023-08-16,2023-08-22,4,1056,4224,7
+1625,Rahul Sen 625,Haridwar,Sweets,Magnam Set,Valentine's Day,2023-08-14,2023-08-20,1,2237,2237,16
+1626,Pooja Nair 626,Haridwar,Mugs,Dolores Gift,Birthday,2023-04-01,2023-04-06,2,1469,2938,18
+1627,Kabir Singh 627,Haridwar,Raksha Bandhan,Quia Gift,Diwali,2023-01-02,2023-01-07,2,963,1926,16
+1628,Meera Rao 628,Bidhannagar,Colors,Quia Gift,Diwali,2023-06-03,2023-06-08,2,1504,3008,14
+1629,Meera Rao 629,Bidhannagar,Soft Toys,Quia Gift,Raksha Bandhan,2023-03-02,2023-03-10,1,544,544,14
+1630,Amit Deshmukh 630,Imphal,Raksha Bandhan,Harum Pack,Holi,2023-03-26,2023-03-30,1,3346,3346,21
+1631,Meera Rao 631,Dibrugarh,Soft Toys,Quia Gift,Diwali,2023-02-16,2023-02-21,1,3188,3188,23
+1632,Karan Joshi 632,North Dumdum,Cake,Harum Pack,Holi,2023-02-17,2023-02-20,2,1532,3064,8
+1633,Kabir Singh 633,Dibrugarh,Sweets,Harum Pack,Anniversary,2023-09-20,2023-09-24,1,1119,1119,17
+1634,Neha Joshi 634,Bilaspur,Mugs,Dolores Gift,Holi,2023-02-17,2023-02-24,1,845,845,22
+1635,Sneha Iyer 635,Bilaspur,Sweets,Magnam Set,Holi,2023-10-08,2023-10-14,2,1185,2370,10
+1636,Meera Rao 636,Guntakal,Cake,Harum Pack,Anniversary,2023-02-15,2023-02-20,1,3556,3556,21
+1637,Aditya Roy 637,Kavali,Colors,Magnam Set,Valentine's Day,2023-08-16,2023-08-20,1,2280,2280,1
+1638,Aditya Roy 638,Imphal,Plants,Harum Pack,Raksha Bandhan,2023-08-02,2023-08-05,1,1949,1949,21
+1639,Vikram Malhotra 639,North Dumdum,Soft Toys,Harum Pack,Diwali,2023-03-26,2023-03-29,2,2102,4204,14
+1640,Rahul Sen 640,Dhanbad,Soft Toys,Quia Gift,Birthday,2023-07-22,2023-07-28,1,2743,2743,1
+1641,Aarav Sharma 641,Bidhannagar,Cake,Magnam Set,Anniversary,2023-08-22,2023-08-27,1,1660,1660,10
+1642,Aarav Sharma 642,Bhatpara,Raksha Bandhan,Deserunt Box,Anniversary,2023-11-22,2023-11-29,1,2955,2955,17
+1643,Meera Rao 643,Bidhannagar,Cake,Quia Gift,Birthday,2023-03-25,2023-04-01,1,4461,4461,9
+1644,Priya Patel 644,Bilaspur,Mugs,Harum Pack,Holi,2023-08-03,2023-08-09,3,1632,4896,19
+1645,Meera Rao 645,Guntakal,Mugs,Dolores Gift,Anniversary,2023-03-02,2023-03-07,1,746,746,10
+1646,Divya Menon 646,Dibrugarh,Colors,Magnam Set,Anniversary,2023-07-07,2023-07-13,1,2515,2515,8
+1647,Amit Deshmukh 647,Haridwar,Colors,Quia Gift,Valentine's Day,2023-02-15,2023-02-21,1,798,798,7
+1648,Meera Rao 648,Dibrugarh,Sweets,Magnam Set,Anniversary,2023-11-05,2023-11-11,1,654,654,17
+1649,Kabir Singh 649,Bilaspur,Soft Toys,Harum Pack,Holi,2023-08-17,2023-08-23,2,2458,4916,13
+1650,Divya Menon 650,Bidhannagar,Raksha Bandhan,Dolores Gift,Anniversary,2023-03-23,2023-03-30,1,2823,2823,15
+1651,Neha Joshi 651,Guntakal,Soft Toys,Harum Pack,Holi,2023-02-21,2023-02-24,1,4435,4435,12
+1652,Divya Menon 652,Imphal,Sweets,Harum Pack,Valentine's Day,2023-02-18,2023-02-21,1,1282,1282,11
+1653,Vikram Malhotra 653,Bidhannagar,Soft Toys,Harum Pack,Holi,2023-02-21,2023-02-26,1,646,646,9
+1654,Meera Rao 654,North Dumdum,Colors,Magnam Set,Holi,2023-02-18,2023-02-24,1,4452,4452,19
+1655,Pooja Nair 655,Bhatpara,Cake,Harum Pack,Anniversary,2023-03-24,2023-03-27,1,3805,3805,17
+1656,Amit Deshmukh 656,Imphal,Soft Toys,Quia Gift,Birthday,2023-09-08,2023-09-16,1,1079,1079,14
+1657,Aarav Sharma 657,Imphal,Raksha Bandhan,Deserunt Box,Birthday,2023-08-05,2023-08-08,2,4205,8410,11
+1658,Karan Joshi 658,Bidhannagar,Plants,Quia Gift,Birthday,2023-11-03,2023-11-10,1,2536,2536,16
+1659,Sneha Iyer 659,Dhanbad,Cake,Dolores Gift,Holi,2023-03-27,2023-04-05,2,1828,3656,8
+1660,Rahul Sen 660,North Dumdum,Raksha Bandhan,Dolores Gift,Diwali,2023-11-26,2023-11-30,1,1210,1210,12
+1661,Priya Patel 661,Dibrugarh,Colors,Magnam Set,Birthday,2023-08-18,2023-08-22,1,2883,2883,5
+1662,Priya Patel 662,North Dumdum,Plants,Dolores Gift,Anniversary,2023-11-03,2023-11-06,1,865,865,18
+1663,Sneha Iyer 663,Dibrugarh,Plants,Magnam Set,Valentine's Day,2023-02-05,2023-02-11,1,2187,2187,10
+1664,Rohan Verma 664,North Dumdum,Soft Toys,Deserunt Box,Raksha Bandhan,2023-02-16,2023-02-22,1,3885,3885,19
+1665,Neha Joshi 665,Haridwar,Cake,Quia Gift,Birthday,2023-02-17,2023-02-26,2,4033,8066,19
+1666,Amit Deshmukh 666,Kavali,Colors,Magnam Set,Valentine's Day,2023-08-09,2023-08-12,1,1111,1111,18
+1667,Aditya Roy 667,Imphal,Plants,Dolores Gift,Birthday,2023-08-02,2023-08-05,1,1358,1358,13
+1668,Neha Joshi 668,North Dumdum,Sweets,Magnam Set,Anniversary,2023-02-02,2023-02-10,1,3717,3717,4
+1669,Amit Deshmukh 669,Bidhannagar,Cake,Dolores Gift,Valentine's Day,2023-05-19,2023-05-24,1,3272,3272,20
+1670,Ananya Gupta 670,Bidhannagar,Mugs,Dolores Gift,Anniversary,2023-02-14,2023-02-21,1,1403,1403,7
+1671,Sneha Iyer 671,Imphal,Cake,Magnam Set,Birthday,2023-02-20,2023-02-25,1,1058,1058,14
+1672,Ananya Gupta 672,Guntakal,Mugs,Dolores Gift,Diwali,2023-02-23,2023-02-28,1,955,955,20
+1673,Pooja Nair 673,Haridwar,Colors,Harum Pack,Birthday,2023-11-20,2023-11-24,2,4402,8804,17
+1674,Rohan Verma 674,North Dumdum,Raksha Bandhan,Dolores Gift,Anniversary,2023-04-17,2023-04-22,4,2923,11692,14
+1675,Pooja Nair 675,Dibrugarh,Cake,Magnam Set,Valentine's Day,2023-11-08,2023-11-13,1,4152,4152,21
+1676,Rohan Verma 676,North Dumdum,Cake,Magnam Set,Anniversary,2023-01-16,2023-01-22,1,2243,2243,15
+1677,Pooja Nair 677,Bidhannagar,Plants,Magnam Set,Birthday,2023-02-25,2023-02-28,2,4390,8780,10
+1678,Neha Joshi 678,Dibrugarh,Colors,Deserunt Box,Anniversary,2023-06-10,2023-06-14,1,2836,2836,18
+1679,Aarav Sharma 679,Imphal,Plants,Dolores Gift,Valentine's Day,2023-04-26,2023-05-03,2,3383,6766,17
+1680,Divya Menon 680,Bidhannagar,Plants,Harum Pack,Raksha Bandhan,2023-01-14,2023-01-20,2,3008,6016,16
+1681,Karan Joshi 681,Dhanbad,Sweets,Deserunt Box,Raksha Bandhan,2023-11-24,2023-12-02,1,4227,4227,17
+1682,Aditya Roy 682,Bhatpara,Cake,Magnam Set,Diwali,2023-06-02,2023-06-07,1,2788,2788,18
+1683,Amit Deshmukh 683,Dhanbad,Colors,Harum Pack,Birthday,2023-08-21,2023-08-26,3,2876,8628,20
+1684,Meera Rao 684,Dhanbad,Sweets,Dolores Gift,Diwali,2023-03-09,2023-03-14,1,723,723,7
+1685,Neha Joshi 685,Imphal,Plants,Quia Gift,Raksha Bandhan,2023-11-16,2023-11-22,2,2682,5364,20
+1686,Pooja Nair 686,North Dumdum,Mugs,Deserunt Box,Birthday,2023-11-15,2023-11-18,1,1232,1232,11
+1687,Priya Patel 687,Bidhannagar,Colors,Harum Pack,Anniversary,2023-08-16,2023-08-20,1,4399,4399,17
+1688,Kabir Singh 688,Haridwar,Soft Toys,Quia Gift,Birthday,2023-06-14,2023-06-19,2,1694,3388,9
+1689,Aarav Sharma 689,Dhanbad,Sweets,Quia Gift,Valentine's Day,2023-03-19,2023-03-24,2,1836,3672,14
+1690,Rahul Sen 690,Kavali,Sweets,Quia Gift,Holi,2023-05-19,2023-05-23,2,1203,2406,19
+1691,Ananya Gupta 691,Imphal,Mugs,Harum Pack,Anniversary,2023-02-10,2023-02-15,1,4285,4285,9
+1692,Amit Deshmukh 692,Dibrugarh,Colors,Dolores Gift,Valentine's Day,2023-08-22,2023-08-28,1,978,978,5
+1693,Neha Joshi 693,North Dumdum,Colors,Magnam Set,Diwali,2023-03-07,2023-03-12,1,1798,1798,22
+1694,Rohan Verma 694,Guntakal,Plants,Quia Gift,Birthday,2023-08-04,2023-08-12,1,2545,2545,19
+1695,Pooja Nair 695,Guntakal,Colors,Deserunt Box,Valentine's Day,2023-08-17,2023-08-22,2,2441,4882,20
+1696,Karan Joshi 696,North Dumdum,Soft Toys,Dolores Gift,Raksha Bandhan,2023-08-15,2023-08-20,1,2461,2461,20
+1697,Rohan Verma 697,Kavali,Cake,Harum Pack,Anniversary,2023-04-27,2023-05-01,1,1836,1836,6
+1698,Rahul Sen 698,Dhanbad,Raksha Bandhan,Quia Gift,Birthday,2023-10-25,2023-10-29,1,2705,2705,20
+1699,Rahul Sen 699,Bidhannagar,Raksha Bandhan,Magnam Set,Birthday,2023-07-20,2023-07-26,3,4220,12660,17
+1700,Vikram Malhotra 700,Bilaspur,Soft Toys,Magnam Set,Diwali,2023-03-01,2023-03-05,1,2325,2325,20
+1701,Priya Patel 701,Dhanbad,Soft Toys,Magnam Set,Valentine's Day,2023-12-26,2023-12-31,1,3481,3481,22
+1702,Vikram Malhotra 702,Haridwar,Colors,Quia Gift,Raksha Bandhan,2023-02-07,2023-02-12,4,2651,10604,22
+1703,Priya Patel 703,North Dumdum,Sweets,Magnam Set,Anniversary,2023-01-21,2023-01-29,1,2776,2776,14
+1704,Sneha Iyer 704,Bilaspur,Colors,Dolores Gift,Holi,2023-03-16,2023-03-19,2,3918,7836,16
+1705,Pooja Nair 705,Kavali,Soft Toys,Magnam Set,Birthday,2023-01-01,2023-01-05,1,3123,3123,19
+1706,Pooja Nair 706,Bidhannagar,Soft Toys,Harum Pack,Holi,2023-02-23,2023-03-01,1,3632,3632,11
+1707,Priya Patel 707,North Dumdum,Soft Toys,Harum Pack,Raksha Bandhan,2023-06-14,2023-06-21,2,2449,4898,22
+1708,Divya Menon 708,Bidhannagar,Mugs,Quia Gift,Valentine's Day,2023-08-28,2023-09-01,1,1098,1098,11
+1709,Aditya Roy 709,Bilaspur,Mugs,Dolores Gift,Anniversary,2023-03-14,2023-03-20,4,699,2796,11
+1710,Amit Deshmukh 710,Bidhannagar,Raksha Bandhan,Dolores Gift,Valentine's Day,2023-02-04,2023-02-09,1,1821,1821,20
+1711,Divya Menon 711,Dibrugarh,Mugs,Harum Pack,Anniversary,2023-08-12,2023-08-19,1,2622,2622,11
+1712,Karan Joshi 712,Imphal,Plants,Harum Pack,Birthday,2023-02-05,2023-02-10,2,3756,7512,20
+1713,Sneha Iyer 713,Kavali,Sweets,Quia Gift,Valentine's Day,2023-08-25,2023-09-01,1,4252,4252,7
+1714,Divya Menon 714,Bilaspur,Cake,Magnam Set,Diwali,2023-03-12,2023-03-16,1,2947,2947,15
+1715,Neha Joshi 715,Bilaspur,Soft Toys,Harum Pack,Anniversary,2023-09-04,2023-09-08,3,1083,3249,18
+1716,Kabir Singh 716,Bilaspur,Colors,Dolores Gift,Anniversary,2023-04-25,2023-05-01,1,3673,3673,14
+1717,Vikram Malhotra 717,Bhatpara,Colors,Deserunt Box,Anniversary,2023-10-17,2023-10-22,1,4221,4221,10
+1718,Priya Patel 718,Dibrugarh,Soft Toys,Deserunt Box,Anniversary,2023-10-20,2023-10-24,3,1256,3768,17
+1719,Aarav Sharma 719,Bidhannagar,Colors,Harum Pack,Raksha Bandhan,2023-03-06,2023-03-13,2,3010,6020,10
+1720,Sneha Iyer 720,Bidhannagar,Cake,Quia Gift,Anniversary,2023-08-23,2023-08-27,1,4193,4193,18
+1721,Aarav Sharma 721,Bidhannagar,Colors,Quia Gift,Valentine's Day,2023-06-23,2023-06-28,1,4422,4422,8
+1722,Divya Menon 722,Guntakal,Plants,Magnam Set,Birthday,2023-07-14,2023-07-18,4,1006,4024,14
+1723,Amit Deshmukh 723,Bilaspur,Plants,Harum Pack,Valentine's Day,2023-03-24,2023-03-27,1,973,973,13
+1724,Pooja Nair 724,North Dumdum,Soft Toys,Harum Pack,Valentine's Day,2023-12-15,2023-12-19,1,4003,4003,13
+1725,Divya Menon 725,Bidhannagar,Sweets,Magnam Set,Valentine's Day,2023-03-01,2023-03-10,1,930,930,13
+1726,Amit Deshmukh 726,Bidhannagar,Cake,Dolores Gift,Holi,2023-04-19,2023-04-28,2,4155,8310,22
+1727,Priya Patel 727,Guntakal,Colors,Harum Pack,Birthday,2023-08-13,2023-08-17,2,3470,6940,15
+1728,Karan Joshi 728,North Dumdum,Raksha Bandhan,Harum Pack,Valentine's Day,2023-11-12,2023-11-17,2,2156,4312,22
+1729,Amit Deshmukh 729,Dibrugarh,Colors,Magnam Set,Anniversary,2023-02-16,2023-02-21,2,1051,2102,4
+1730,Meera Rao 730,Bhatpara,Sweets,Deserunt Box,Holi,2023-08-06,2023-08-11,2,1125,2250,11
+1731,Sneha Iyer 731,Bidhannagar,Sweets,Deserunt Box,Valentine's Day,2023-09-25,2023-09-30,1,1702,1702,17
+1732,Pooja Nair 732,Kavali,Mugs,Quia Gift,Diwali,2023-11-18,2023-11-23,4,629,2516,23
+1733,Aditya Roy 733,Bidhannagar,Plants,Magnam Set,Diwali,2023-11-15,2023-11-20,1,2780,2780,17
+1734,Karan Joshi 734,Dibrugarh,Soft Toys,Dolores Gift,Holi,2023-05-10,2023-05-16,1,948,948,16
+1735,Pooja Nair 735,Kavali,Soft Toys,Quia Gift,Raksha Bandhan,2023-06-18,2023-06-25,1,2103,2103,10
+1736,Sneha Iyer 736,Haridwar,Raksha Bandhan,Harum Pack,Diwali,2023-03-01,2023-03-06,1,2000,2000,12
+1737,Meera Rao 737,North Dumdum,Cake,Harum Pack,Holi,2023-02-12,2023-02-21,1,731,731,17
+1738,Ananya Gupta 738,Dhanbad,Soft Toys,Harum Pack,Raksha Bandhan,2023-02-23,2023-02-26,1,1882,1882,9
+1739,Amit Deshmukh 739,Guntakal,Cake,Magnam Set,Valentine's Day,2023-11-19,2023-11-24,1,583,583,18
+1740,Sneha Iyer 740,Bhatpara,Mugs,Magnam Set,Raksha Bandhan,2023-03-19,2023-03-22,1,3329,3329,18
+1741,Neha Joshi 741,Imphal,Raksha Bandhan,Harum Pack,Birthday,2023-08-12,2023-08-21,1,3102,3102,19
+1742,Karan Joshi 742,Bidhannagar,Sweets,Quia Gift,Birthday,2023-03-02,2023-03-06,1,3795,3795,10
+1743,Meera Rao 743,Bidhannagar,Soft Toys,Quia Gift,Anniversary,2023-08-09,2023-08-12,2,2446,4892,13
+1744,Neha Joshi 744,Bidhannagar,Soft Toys,Harum Pack,Raksha Bandhan,2023-11-14,2023-11-20,1,2197,2197,13
+1745,Sneha Iyer 745,Kavali,Plants,Quia Gift,Birthday,2023-11-21,2023-11-27,3,2862,8586,15
+1746,Rahul Sen 746,Imphal,Mugs,Quia Gift,Raksha Bandhan,2023-11-14,2023-11-22,2,745,1490,15
+1747,Neha Joshi 747,Imphal,Colors,Dolores Gift,Birthday,2023-09-25,2023-09-30,1,1805,1805,20
+1748,Aditya Roy 748,Bidhannagar,Soft Toys,Dolores Gift,Holi,2023-03-10,2023-03-16,1,2962,2962,10
+1749,Ananya Gupta 749,Bidhannagar,Colors,Dolores Gift,Anniversary,2023-02-27,2023-03-04,1,2286,2286,13
+1750,Aditya Roy 750,Bhatpara,Colors,Dolores Gift,Diwali,2023-02-09,2023-02-15,1,2755,2755,9
+1751,Divya Menon 751,Bhatpara,Soft Toys,Magnam Set,Anniversary,2023-02-03,2023-02-08,1,760,760,20
+1752,Vikram Malhotra 752,Guntakal,Soft Toys,Deserunt Box,Holi,2023-11-24,2023-12-01,1,2838,2838,18
+1753,Aditya Roy 753,Bidhannagar,Raksha Bandhan,Quia Gift,Raksha Bandhan,2023-03-03,2023-03-07,1,3804,3804,11
+1754,Divya Menon 754,North Dumdum,Soft Toys,Magnam Set,Valentine's Day,2023-09-14,2023-09-18,1,1376,1376,22
+1755,Pooja Nair 755,Haridwar,Mugs,Quia Gift,Anniversary,2023-07-12,2023-07-18,1,2735,2735,13
+1756,Rahul Sen 756,Dhanbad,Mugs,Dolores Gift,Diwali,2023-06-12,2023-06-19,1,4460,4460,20
+1757,Aarav Sharma 757,Bhatpara,Soft Toys,Dolores Gift,Diwali,2023-08-10,2023-08-16,2,4199,8398,19
+1758,Priya Patel 758,Kavali,Sweets,Dolores Gift,Holi,2023-03-13,2023-03-21,3,1732,5196,7
+1759,Divya Menon 759,Dhanbad,Mugs,Dolores Gift,Birthday,2023-11-21,2023-11-26,2,3139,6278,13
+1760,Aarav Sharma 760,Dibrugarh,Sweets,Deserunt Box,Holi,2023-06-14,2023-06-22,1,2230,2230,20
+1761,Divya Menon 761,Bidhannagar,Sweets,Dolores Gift,Valentine's Day,2023-03-03,2023-03-08,2,3831,7662,16
+1762,Neha Joshi 762,Imphal,Soft Toys,Deserunt Box,Anniversary,2023-08-06,2023-08-12,2,1057,2114,0
+1763,Ananya Gupta 763,Dibrugarh,Mugs,Quia Gift,Anniversary,2023-02-08,2023-02-13,4,3902,15608,17
+1764,Rohan Verma 764,North Dumdum,Soft Toys,Magnam Set,Diwali,2023-05-28,2023-06-03,1,3315,3315,16
+1765,Neha Joshi 765,Dibrugarh,Colors,Deserunt Box,Holi,2023-03-13,2023-03-20,3,4122,12366,16
+1766,Aarav Sharma 766,Bhatpara,Raksha Bandhan,Quia Gift,Valentine's Day,2023-02-03,2023-02-12,1,3372,3372,20
+1767,Aarav Sharma 767,Haridwar,Raksha Bandhan,Magnam Set,Raksha Bandhan,2023-03-03,2023-03-12,1,2823,2823,8
+1768,Meera Rao 768,Kavali,Plants,Magnam Set,Valentine's Day,2023-07-08,2023-07-14,1,4030,4030,19
+1769,Kabir Singh 769,Dibrugarh,Soft Toys,Magnam Set,Holi,2023-02-28,2023-03-04,1,3875,3875,11
+1770,Rahul Sen 770,Dhanbad,Plants,Dolores Gift,Holi,2023-10-01,2023-10-05,1,3030,3030,14
+1771,Ananya Gupta 771,Guntakal,Raksha Bandhan,Magnam Set,Anniversary,2023-01-05,2023-01-12,4,2128,8512,18
+1772,Meera Rao 772,Haridwar,Soft Toys,Magnam Set,Valentine's Day,2023-08-03,2023-08-06,1,1863,1863,21
+1773,Pooja Nair 773,Guntakal,Raksha Bandhan,Quia Gift,Valentine's Day,2023-09-02,2023-09-05,1,2060,2060,11
+1774,Vikram Malhotra 774,Guntakal,Colors,Quia Gift,Anniversary,2023-08-09,2023-08-13,1,1889,1889,20
+1775,Rohan Verma 775,Bidhannagar,Mugs,Quia Gift,Holi,2023-02-04,2023-02-09,4,2544,10176,20
+1776,Divya Menon 776,Dibrugarh,Soft Toys,Harum Pack,Holi,2023-03-09,2023-03-15,2,1580,3160,15
+1777,Vikram Malhotra 777,Bilaspur,Mugs,Magnam Set,Birthday,2023-08-22,2023-08-28,1,1273,1273,9
+1778,Ananya Gupta 778,Bilaspur,Cake,Magnam Set,Diwali,2023-02-15,2023-02-20,4,4297,17188,15
+1779,Pooja Nair 779,Guntakal,Soft Toys,Quia Gift,Holi,2023-05-04,2023-05-11,3,1006,3018,12
+1780,Ananya Gupta 780,Dibrugarh,Colors,Dolores Gift,Valentine's Day,2023-07-09,2023-07-14,2,1369,2738,16
+1781,Aarav Sharma 781,Kavali,Sweets,Quia Gift,Birthday,2023-04-03,2023-04-07,1,886,886,20
+1782,Aarav Sharma 782,Dibrugarh,Soft Toys,Deserunt Box,Holi,2023-03-04,2023-03-11,1,832,832,14
+1783,Meera Rao 783,Imphal,Plants,Harum Pack,Raksha Bandhan,2023-08-11,2023-08-20,2,4394,8788,14
+1784,Meera Rao 784,North Dumdum,Colors,Dolores Gift,Anniversary,2023-11-10,2023-11-15,1,789,789,16
+1785,Sneha Iyer 785,Haridwar,Cake,Magnam Set,Diwali,2023-02-25,2023-03-04,1,3991,3991,10
+1786,Vikram Malhotra 786,Haridwar,Mugs,Dolores Gift,Anniversary,2023-03-26,2023-03-31,2,1770,3540,20
+1787,Sneha Iyer 787,Bilaspur,Mugs,Deserunt Box,Diwali,2023-07-16,2023-07-21,1,1599,1599,16
+1788,Vikram Malhotra 788,Bidhannagar,Sweets,Magnam Set,Diwali,2023-08-14,2023-08-20,1,2602,2602,12
+1789,Pooja Nair 789,Dhanbad,Soft Toys,Dolores Gift,Holi,2023-08-21,2023-08-26,1,2291,2291,7
+1790,Karan Joshi 790,Imphal,Mugs,Dolores Gift,Birthday,2023-08-10,2023-08-17,1,1710,1710,16
+1791,Amit Deshmukh 791,Bidhannagar,Cake,Quia Gift,Anniversary,2023-07-14,2023-07-17,2,2828,5656,19
+1792,Neha Joshi 792,Dibrugarh,Raksha Bandhan,Deserunt Box,Raksha Bandhan,2023-01-24,2023-01-30,1,1246,1246,19
+1793,Aarav Sharma 793,Bidhannagar,Plants,Harum Pack,Diwali,2023-08-15,2023-08-21,1,3808,3808,10
+1794,Aditya Roy 794,Bilaspur,Colors,Dolores Gift,Anniversary,2023-09-20,2023-09-24,2,2276,4552,15
+1795,Aarav Sharma 795,Haridwar,Cake,Deserunt Box,Birthday,2023-08-15,2023-08-21,3,4455,13365,18
+1796,Meera Rao 796,Imphal,Mugs,Quia Gift,Raksha Bandhan,2023-03-22,2023-03-31,2,3795,7590,11
+1797,Rohan Verma 797,Bilaspur,Cake,Dolores Gift,Anniversary,2023-11-23,2023-12-02,3,1357,4071,14
+1798,Rohan Verma 798,Dhanbad,Plants,Quia Gift,Birthday,2023-02-25,2023-03-02,1,589,589,8
+1799,Aditya Roy 799,Bilaspur,Soft Toys,Magnam Set,Holi,2023-06-28,2023-07-03,1,1707,1707,16
+1800,Divya Menon 800,Haridwar,Cake,Harum Pack,Anniversary,2023-02-28,2023-03-06,4,3975,15900,15
+1801,Sneha Iyer 801,North Dumdum,Soft Toys,Quia Gift,Diwali,2023-01-13,2023-01-18,1,3004,3004,21
+1802,Aditya Roy 802,Imphal,Colors,Deserunt Box,Raksha Bandhan,2023-01-19,2023-01-24,1,4157,4157,17
+1803,Aditya Roy 803,Imphal,Cake,Magnam Set,Raksha Bandhan,2023-11-12,2023-11-17,1,1160,1160,11
+1804,Ananya Gupta 804,Imphal,Mugs,Magnam Set,Birthday,2023-07-19,2023-07-27,1,2966,2966,20
+1805,Meera Rao 805,Imphal,Colors,Harum Pack,Valentine's Day,2023-08-14,2023-08-21,2,3508,7016,12
+1806,Pooja Nair 806,Bilaspur,Raksha Bandhan,Dolores Gift,Diwali,2023-08-03,2023-08-09,1,1317,1317,9
+1807,Pooja Nair 807,Bidhannagar,Sweets,Magnam Set,Holi,2023-03-07,2023-03-12,4,1969,7876,20
+1808,Neha Joshi 808,Bilaspur,Colors,Quia Gift,Anniversary,2023-11-11,2023-11-16,2,994,1988,16
+1809,Pooja Nair 809,Dibrugarh,Mugs,Harum Pack,Anniversary,2023-10-18,2023-10-22,1,3326,3326,20
+1810,Sneha Iyer 810,Bidhannagar,Soft Toys,Deserunt Box,Holi,2023-10-27,2023-11-02,4,3701,14804,17
+1811,Karan Joshi 811,Bidhannagar,Sweets,Quia Gift,Anniversary,2023-07-06,2023-07-12,3,4231,12693,12
+1812,Meera Rao 812,Dibrugarh,Soft Toys,Magnam Set,Raksha Bandhan,2023-07-28,2023-07-31,2,1870,3740,19
+1813,Priya Patel 813,Dhanbad,Plants,Magnam Set,Anniversary,2023-02-26,2023-03-03,1,1201,1201,7
+1814,Neha Joshi 814,Haridwar,Mugs,Dolores Gift,Birthday,2023-09-17,2023-09-22,1,3784,3784,13
+1815,Aditya Roy 815,Haridwar,Plants,Quia Gift,Valentine's Day,2023-03-01,2023-03-06,2,3439,6878,19
+1816,Priya Patel 816,Bidhannagar,Mugs,Harum Pack,Holi,2023-12-06,2023-12-11,1,651,651,17
+1817,Rahul Sen 817,Bilaspur,Raksha Bandhan,Deserunt Box,Valentine's Day,2023-12-26,2024-01-01,1,1711,1711,13
+1818,Aditya Roy 818,Kavali,Sweets,Harum Pack,Valentine's Day,2023-09-12,2023-09-15,1,2661,2661,17
+1819,Rohan Verma 819,Haridwar,Plants,Dolores Gift,Raksha Bandhan,2023-08-20,2023-08-26,2,4135,8270,19
+1820,Rahul Sen 820,Haridwar,Sweets,Dolores Gift,Diwali,2023-02-18,2023-02-23,2,3531,7062,20
+1821,Amit Deshmukh 821,Kavali,Mugs,Dolores Gift,Anniversary,2023-07-10,2023-07-15,2,1155,2310,3
+1822,Aditya Roy 822,Kavali,Raksha Bandhan,Harum Pack,Birthday,2023-11-10,2023-11-16,4,952,3808,18
+1823,Divya Menon 823,Guntakal,Mugs,Quia Gift,Diwali,2023-02-25,2023-03-03,1,1720,1720,16
+1824,Aarav Sharma 824,Imphal,Mugs,Dolores Gift,Valentine's Day,2023-12-19,2023-12-25,3,3225,9675,15
+1825,Sneha Iyer 825,Dhanbad,Mugs,Harum Pack,Diwali,2023-08-27,2023-09-02,2,3425,6850,12
+1826,Meera Rao 826,Dhanbad,Cake,Harum Pack,Raksha Bandhan,2023-08-27,2023-09-02,1,1100,1100,18
+1827,Divya Menon 827,Haridwar,Cake,Deserunt Box,Anniversary,2023-04-05,2023-04-10,1,2012,2012,18
+1828,Vikram Malhotra 828,North Dumdum,Raksha Bandhan,Quia Gift,Holi,2023-11-19,2023-11-24,1,2302,2302,18
+1829,Pooja Nair 829,Haridwar,Sweets,Dolores Gift,Birthday,2023-07-16,2023-07-22,1,3385,3385,15
+1830,Amit Deshmukh 830,Bidhannagar,Soft Toys,Dolores Gift,Holi,2023-06-24,2023-06-28,1,4275,4275,21
+1831,Sneha Iyer 831,Haridwar,Cake,Deserunt Box,Diwali,2023-08-02,2023-08-07,1,1748,1748,23
+1832,Kabir Singh 832,Dibrugarh,Plants,Deserunt Box,Birthday,2023-02-19,2023-02-24,3,1749,5247,20
+1833,Ananya Gupta 833,Bilaspur,Sweets,Magnam Set,Anniversary,2023-02-12,2023-02-15,1,2470,2470,16
+1834,Sneha Iyer 834,Imphal,Mugs,Magnam Set,Holi,2023-11-27,2023-12-03,2,2567,5134,17
+1835,Karan Joshi 835,Imphal,Soft Toys,Magnam Set,Birthday,2023-11-11,2023-11-14,2,3054,6108,13
+1836,Ananya Gupta 836,Haridwar,Mugs,Quia Gift,Anniversary,2023-12-15,2023-12-21,2,4046,8092,9
+1837,Aarav Sharma 837,North Dumdum,Soft Toys,Harum Pack,Raksha Bandhan,2023-08-21,2023-08-26,1,3034,3034,15
+1838,Karan Joshi 838,Bhatpara,Raksha Bandhan,Quia Gift,Birthday,2023-09-17,2023-09-24,1,4334,4334,15
+1839,Aarav Sharma 839,Dibrugarh,Sweets,Dolores Gift,Birthday,2023-11-27,2023-12-04,1,3805,3805,15
+1840,Neha Joshi 840,Haridwar,Raksha Bandhan,Deserunt Box,Holi,2023-11-01,2023-11-06,1,598,598,20
+1841,Neha Joshi 841,Haridwar,Mugs,Deserunt Box,Anniversary,2023-12-18,2023-12-22,1,1546,1546,19
+1842,Rohan Verma 842,Dibrugarh,Plants,Dolores Gift,Anniversary,2023-08-11,2023-08-15,2,1720,3440,13
+1843,Neha Joshi 843,Bilaspur,Plants,Harum Pack,Diwali,2023-03-27,2023-04-03,1,1481,1481,18
+1844,Sneha Iyer 844,Dhanbad,Plants,Quia Gift,Raksha Bandhan,2023-03-04,2023-03-08,1,2765,2765,13
+1845,Pooja Nair 845,Bhatpara,Plants,Dolores Gift,Anniversary,2023-03-19,2023-03-25,1,2772,2772,17
+1846,Rohan Verma 846,Dibrugarh,Raksha Bandhan,Magnam Set,Holi,2023-02-21,2023-02-26,2,1083,2166,12
+1847,Rohan Verma 847,Dhanbad,Raksha Bandhan,Magnam Set,Raksha Bandhan,2023-05-01,2023-05-08,4,3042,12168,11
+1848,Rohan Verma 848,Bhatpara,Cake,Magnam Set,Diwali,2023-08-27,2023-09-02,4,3950,15800,17
+1849,Sneha Iyer 849,Kavali,Mugs,Deserunt Box,Birthday,2023-08-19,2023-08-22,1,3360,3360,8
+1850,Rohan Verma 850,Kavali,Mugs,Magnam Set,Birthday,2023-08-26,2023-08-31,2,1903,3806,17
+1851,Karan Joshi 851,Imphal,Mugs,Dolores Gift,Valentine's Day,2023-12-11,2023-12-15,4,1845,7380,2
+1852,Meera Rao 852,Bilaspur,Soft Toys,Deserunt Box,Raksha Bandhan,2023-06-01,2023-06-07,1,4167,4167,18
+1853,Pooja Nair 853,Haridwar,Raksha Bandhan,Deserunt Box,Valentine's Day,2023-08-18,2023-08-21,2,3250,6500,14
+1854,Priya Patel 854,Guntakal,Sweets,Magnam Set,Raksha Bandhan,2023-03-06,2023-03-13,2,534,1068,8
+1855,Neha Joshi 855,Dhanbad,Plants,Deserunt Box,Birthday,2023-09-25,2023-09-29,3,1965,5895,9
+1856,Divya Menon 856,North Dumdum,Soft Toys,Harum Pack,Valentine's Day,2023-02-16,2023-02-25,1,2518,2518,20
+1857,Meera Rao 857,North Dumdum,Colors,Deserunt Box,Birthday,2023-12-21,2023-12-26,3,2831,8493,15
+1858,Rohan Verma 858,Kavali,Colors,Quia Gift,Valentine's Day,2023-08-19,2023-08-23,1,3555,3555,7
+1859,Kabir Singh 859,North Dumdum,Sweets,Dolores Gift,Raksha Bandhan,2023-08-09,2023-08-13,2,4472,8944,18
+1860,Amit Deshmukh 860,North Dumdum,Mugs,Quia Gift,Holi,2023-01-14,2023-01-20,3,712,2136,20
+1861,Neha Joshi 861,Haridwar,Sweets,Magnam Set,Diwali,2023-02-17,2023-02-22,1,3608,3608,6
+1862,Meera Rao 862,Dhanbad,Cake,Harum Pack,Holi,2023-08-11,2023-08-14,1,835,835,20
+1863,Karan Joshi 863,Bhatpara,Soft Toys,Dolores Gift,Valentine's Day,2023-04-03,2023-04-11,1,1848,1848,11
+1864,Rahul Sen 864,Bidhannagar,Cake,Magnam Set,Holi,2023-11-19,2023-11-25,3,3942,11826,10
+1865,Priya Patel 865,Imphal,Colors,Harum Pack,Anniversary,2023-11-17,2023-11-23,3,3677,11031,16
+1866,Pooja Nair 866,Bidhannagar,Soft Toys,Magnam Set,Raksha Bandhan,2023-02-02,2023-02-10,1,4145,4145,19
+1867,Priya Patel 867,Bilaspur,Cake,Magnam Set,Anniversary,2023-03-21,2023-03-26,1,728,728,16
+1868,Kabir Singh 868,Haridwar,Plants,Deserunt Box,Raksha Bandhan,2023-09-08,2023-09-15,2,3055,6110,1
+1869,Vikram Malhotra 869,Imphal,Sweets,Magnam Set,Raksha Bandhan,2023-08-11,2023-08-17,2,606,1212,14
+1870,Neha Joshi 870,North Dumdum,Colors,Deserunt Box,Anniversary,2023-01-23,2023-01-26,2,1293,2586,20
+1871,Rohan Verma 871,Kavali,Mugs,Harum Pack,Holi,2023-06-20,2023-06-25,1,3764,3764,6
+1872,Rohan Verma 872,Dibrugarh,Raksha Bandhan,Magnam Set,Raksha Bandhan,2023-12-25,2023-12-30,1,2716,2716,19
+1873,Rohan Verma 873,Imphal,Mugs,Quia Gift,Diwali,2023-03-01,2023-03-06,2,1092,2184,6
+1874,Amit Deshmukh 874,Kavali,Sweets,Deserunt Box,Holi,2023-03-07,2023-03-13,1,780,780,12
+1875,Rahul Sen 875,Imphal,Soft Toys,Magnam Set,Raksha Bandhan,2023-08-28,2023-09-02,4,3023,12092,11
+1876,Neha Joshi 876,Bilaspur,Cake,Magnam Set,Anniversary,2023-07-01,2023-07-07,2,2410,4820,17
+1877,Ananya Gupta 877,Imphal,Soft Toys,Harum Pack,Valentine's Day,2023-03-13,2023-03-17,4,1986,7944,1
+1878,Neha Joshi 878,Bhatpara,Raksha Bandhan,Deserunt Box,Birthday,2023-03-07,2023-03-13,3,1974,5922,6
+1879,Aarav Sharma 879,Dhanbad,Colors,Harum Pack,Birthday,2023-02-09,2023-02-15,1,2771,2771,10
+1880,Ananya Gupta 880,Bhatpara,Colors,Harum Pack,Anniversary,2023-01-22,2023-01-26,2,4125,8250,8
+1881,Aditya Roy 881,Dhanbad,Mugs,Magnam Set,Birthday,2023-03-12,2023-03-18,3,3772,11316,23
+1882,Aditya Roy 882,Haridwar,Soft Toys,Deserunt Box,Anniversary,2023-02-05,2023-02-11,1,2049,2049,18
+1883,Neha Joshi 883,North Dumdum,Plants,Dolores Gift,Anniversary,2023-09-19,2023-09-23,1,3734,3734,9
+1884,Ananya Gupta 884,Bhatpara,Soft Toys,Harum Pack,Birthday,2023-11-19,2023-11-26,1,833,833,19
+1885,Karan Joshi 885,North Dumdum,Cake,Dolores Gift,Raksha Bandhan,2023-03-21,2023-03-27,1,2625,2625,14
+1886,Neha Joshi 886,Guntakal,Raksha Bandhan,Magnam Set,Valentine's Day,2023-12-16,2023-12-20,1,4273,4273,19
+1887,Rahul Sen 887,Bhatpara,Colors,Dolores Gift,Birthday,2023-05-08,2023-05-13,1,4140,4140,12
+1888,Rohan Verma 888,Guntakal,Mugs,Quia Gift,Anniversary,2023-02-03,2023-02-07,1,1442,1442,16
+1889,Pooja Nair 889,Kavali,Raksha Bandhan,Harum Pack,Holi,2023-05-14,2023-05-19,2,1798,3596,11
+1890,Aarav Sharma 890,Bilaspur,Plants,Dolores Gift,Diwali,2023-08-12,2023-08-20,1,2555,2555,15
+1891,Rahul Sen 891,Bidhannagar,Sweets,Harum Pack,Birthday,2023-02-03,2023-02-08,1,1867,1867,9
+1892,Neha Joshi 892,Dibrugarh,Mugs,Harum Pack,Birthday,2023-08-05,2023-08-14,2,3530,7060,16
+1893,Kabir Singh 893,Bhatpara,Sweets,Harum Pack,Diwali,2023-11-26,2023-12-05,3,3866,11598,16
+1894,Rahul Sen 894,Bhatpara,Plants,Quia Gift,Birthday,2023-11-08,2023-11-12,2,2443,4886,10
+1895,Sneha Iyer 895,Kavali,Sweets,Magnam Set,Valentine's Day,2023-11-11,2023-11-17,1,1269,1269,13
+1896,Meera Rao 896,Haridwar,Colors,Magnam Set,Holi,2023-11-01,2023-11-06,1,1025,1025,11
+1897,Meera Rao 897,Bhatpara,Plants,Harum Pack,Diwali,2023-02-14,2023-02-20,1,3689,3689,18
+1898,Kabir Singh 898,Guntakal,Raksha Bandhan,Deserunt Box,Raksha Bandhan,2023-10-05,2023-10-09,4,1852,7408,16
+1899,Karan Joshi 899,North Dumdum,Raksha Bandhan,Quia Gift,Holi,2023-12-07,2023-12-15,1,2082,2082,9
+1900,Priya Patel 900,Guntakal,Raksha Bandhan,Magnam Set,Valentine's Day,2023-11-03,2023-11-07,2,1227,2454,5
+1901,Meera Rao 901,North Dumdum,Plants,Deserunt Box,Birthday,2023-02-13,2023-02-17,1,3201,3201,15
+1902,Pooja Nair 902,Bhatpara,Mugs,Quia Gift,Anniversary,2023-02-28,2023-03-08,1,953,953,8
+1903,Vikram Malhotra 903,Imphal,Soft Toys,Deserunt Box,Holi,2023-12-28,2024-01-01,3,1768,5304,13
+1904,Meera Rao 904,Imphal,Colors,Quia Gift,Raksha Bandhan,2023-11-19,2023-11-23,2,2379,4758,11
+1905,Aarav Sharma 905,Bilaspur,Plants,Deserunt Box,Holi,2023-08-08,2023-08-13,3,4101,12303,14
+1906,Pooja Nair 906,North Dumdum,Cake,Deserunt Box,Diwali,2023-08-15,2023-08-20,2,3745,7490,11
+1907,Sneha Iyer 907,Bilaspur,Plants,Dolores Gift,Birthday,2023-11-24,2023-11-29,1,3199,3199,9
+1908,Sneha Iyer 908,Bidhannagar,Plants,Deserunt Box,Birthday,2023-11-06,2023-11-10,2,1695,3390,17
+1909,Priya Patel 909,Dhanbad,Plants,Magnam Set,Raksha Bandhan,2023-02-12,2023-02-15,1,3639,3639,19
+1910,Vikram Malhotra 910,Imphal,Colors,Harum Pack,Birthday,2023-07-15,2023-07-18,2,3267,6534,18
+1911,Vikram Malhotra 911,Guntakal,Soft Toys,Magnam Set,Birthday,2023-03-01,2023-03-05,2,1059,2118,11
+1912,Meera Rao 912,Imphal,Plants,Magnam Set,Anniversary,2023-02-22,2023-02-26,4,1074,4296,14
+1913,Kabir Singh 913,Bilaspur,Colors,Deserunt Box,Raksha Bandhan,2023-02-10,2023-02-14,2,1189,2378,7
+1914,Karan Joshi 914,Bhatpara,Soft Toys,Harum Pack,Birthday,2023-05-06,2023-05-10,1,3264,3264,15
+1915,Pooja Nair 915,Bhatpara,Sweets,Quia Gift,Valentine's Day,2023-08-22,2023-08-29,1,1762,1762,14
+1916,Sneha Iyer 916,Bhatpara,Cake,Magnam Set,Birthday,2023-11-12,2023-11-20,1,565,565,13
+1917,Aarav Sharma 917,Guntakal,Sweets,Dolores Gift,Valentine's Day,2023-08-08,2023-08-17,1,3921,3921,19
+1918,Rohan Verma 918,Bilaspur,Cake,Magnam Set,Raksha Bandhan,2023-02-11,2023-02-16,2,3058,6116,10
+1919,Amit Deshmukh 919,Haridwar,Plants,Deserunt Box,Birthday,2023-02-12,2023-02-17,1,3178,3178,11
+1920,Vikram Malhotra 920,Dhanbad,Plants,Dolores Gift,Anniversary,2023-08-09,2023-08-15,1,775,775,20
+1921,Vikram Malhotra 921,Dibrugarh,Sweets,Quia Gift,Holi,2023-12-04,2023-12-10,2,4277,8554,20
+1922,Rohan Verma 922,Dibrugarh,Cake,Quia Gift,Diwali,2023-12-23,2023-12-28,3,3659,10977,18
+1923,Neha Joshi 923,Bilaspur,Soft Toys,Harum Pack,Valentine's Day,2023-06-11,2023-06-14,3,2338,7014,13
+1924,Rahul Sen 924,Dhanbad,Raksha Bandhan,Quia Gift,Valentine's Day,2023-12-08,2023-12-11,2,1008,2016,11
+1925,Meera Rao 925,Haridwar,Sweets,Dolores Gift,Raksha Bandhan,2023-02-05,2023-02-10,1,1121,1121,12
+1926,Rahul Sen 926,Bhatpara,Colors,Quia Gift,Holi,2023-08-11,2023-08-15,1,3723,3723,19
+1927,Amit Deshmukh 927,Haridwar,Soft Toys,Harum Pack,Anniversary,2023-02-24,2023-03-01,1,2709,2709,6
+1928,Aditya Roy 928,Dhanbad,Sweets,Dolores Gift,Raksha Bandhan,2023-11-17,2023-11-22,1,524,524,7
+1929,Pooja Nair 929,Bidhannagar,Colors,Deserunt Box,Valentine's Day,2023-12-07,2023-12-11,1,2748,2748,19
+1930,Aditya Roy 930,Dhanbad,Colors,Quia Gift,Anniversary,2023-04-15,2023-04-20,2,1503,3006,13
+1931,Sneha Iyer 931,Dhanbad,Mugs,Harum Pack,Raksha Bandhan,2023-05-21,2023-05-25,3,2470,7410,7
+1932,Neha Joshi 932,Haridwar,Plants,Dolores Gift,Holi,2023-05-17,2023-05-23,1,1138,1138,19
+1933,Karan Joshi 933,Imphal,Cake,Magnam Set,Holi,2023-11-25,2023-12-03,1,2700,2700,9
+1934,Meera Rao 934,Bilaspur,Mugs,Magnam Set,Holi,2023-03-10,2023-03-15,2,794,1588,12
+1935,Meera Rao 935,Imphal,Colors,Dolores Gift,Birthday,2023-01-28,2023-02-02,2,2512,5024,13
+1936,Vikram Malhotra 936,Haridwar,Soft Toys,Harum Pack,Holi,2023-06-21,2023-06-30,1,4124,4124,5
+1937,Aditya Roy 937,Bidhannagar,Plants,Quia Gift,Birthday,2023-02-14,2023-02-23,2,3578,7156,18
+1938,Amit Deshmukh 938,Imphal,Soft Toys,Harum Pack,Valentine's Day,2023-02-13,2023-02-21,2,1492,2984,14
+1939,Aditya Roy 939,Guntakal,Soft Toys,Deserunt Box,Valentine's Day,2023-08-05,2023-08-09,1,3289,3289,9
+1940,Ananya Gupta 940,North Dumdum,Raksha Bandhan,Dolores Gift,Anniversary,2023-02-03,2023-02-09,3,2128,6384,18
+1941,Aditya Roy 941,Bidhannagar,Raksha Bandhan,Dolores Gift,Holi,2023-02-14,2023-02-18,1,4463,4463,15
+1942,Aditya Roy 942,Haridwar,Raksha Bandhan,Harum Pack,Valentine's Day,2023-04-24,2023-05-01,1,2845,2845,19
+1943,Neha Joshi 943,Bilaspur,Mugs,Dolores Gift,Valentine's Day,2023-03-10,2023-03-13,1,2514,2514,0
+1944,Priya Patel 944,Haridwar,Raksha Bandhan,Magnam Set,Valentine's Day,2023-03-14,2023-03-18,1,3383,3383,8
+1945,Pooja Nair 945,Bilaspur,Raksha Bandhan,Deserunt Box,Holi,2023-08-07,2023-08-11,1,1248,1248,19
+1946,Ananya Gupta 946,Dibrugarh,Sweets,Magnam Set,Holi,2023-08-20,2023-08-24,2,826,1652,11
+1947,Vikram Malhotra 947,Bidhannagar,Mugs,Deserunt Box,Diwali,2023-01-08,2023-01-13,2,912,1824,1
+1948,Kabir Singh 948,Bhatpara,Soft Toys,Quia Gift,Anniversary,2023-02-17,2023-02-23,1,2630,2630,22
+1949,Karan Joshi 949,Dibrugarh,Plants,Magnam Set,Diwali,2023-08-11,2023-08-16,3,1791,5373,19
+1950,Neha Joshi 950,Haridwar,Plants,Quia Gift,Anniversary,2023-12-28,2024-01-02,1,2371,2371,20
+1951,Vikram Malhotra 951,Bilaspur,Cake,Quia Gift,Anniversary,2023-11-09,2023-11-18,2,1518,3036,12
+1952,Sneha Iyer 952,Imphal,Raksha Bandhan,Magnam Set,Valentine's Day,2023-02-21,2023-03-02,2,568,1136,17
+1953,Divya Menon 953,Bhatpara,Sweets,Harum Pack,Valentine's Day,2023-05-20,2023-05-25,2,3752,7504,7
+1954,Vikram Malhotra 954,Imphal,Soft Toys,Deserunt Box,Valentine's Day,2023-03-20,2023-03-24,1,2630,2630,20
+1955,Karan Joshi 955,Kavali,Cake,Dolores Gift,Holi,2023-10-10,2023-10-17,4,4083,16332,14
+1956,Aditya Roy 956,Imphal,Cake,Magnam Set,Valentine's Day,2023-08-08,2023-08-12,2,3202,6404,18
+1957,Priya Patel 957,Haridwar,Soft Toys,Deserunt Box,Birthday,2023-11-11,2023-11-19,2,1402,2804,18
+1958,Rahul Sen 958,Imphal,Soft Toys,Deserunt Box,Valentine's Day,2023-02-18,2023-02-24,1,3758,3758,18
+1959,Divya Menon 959,Dhanbad,Raksha Bandhan,Quia Gift,Anniversary,2023-08-13,2023-08-21,2,3469,6938,13
+1960,Rahul Sen 960,Kavali,Sweets,Magnam Set,Birthday,2023-02-04,2023-02-08,1,1893,1893,18
+1961,Aditya Roy 961,Dhanbad,Soft Toys,Deserunt Box,Raksha Bandhan,2023-03-28,2023-04-02,1,3518,3518,0
+1962,Aarav Sharma 962,North Dumdum,Raksha Bandhan,Dolores Gift,Holi,2023-12-11,2023-12-17,2,4325,8650,19
+1963,Amit Deshmukh 963,North Dumdum,Raksha Bandhan,Dolores Gift,Anniversary,2023-03-18,2023-03-25,1,3842,3842,21
+1964,Divya Menon 964,Dhanbad,Plants,Magnam Set,Birthday,2023-08-05,2023-08-11,2,3890,7780,18
+1965,Sneha Iyer 965,Guntakal,Mugs,Quia Gift,Valentine's Day,2023-02-28,2023-03-06,1,3894,3894,10
+1966,Kabir Singh 966,Haridwar,Cake,Harum Pack,Birthday,2023-11-07,2023-11-14,3,1421,4263,18
+1967,Aarav Sharma 967,Bilaspur,Sweets,Magnam Set,Valentine's Day,2023-03-27,2023-04-02,2,588,1176,16
+1968,Neha Joshi 968,Haridwar,Soft Toys,Magnam Set,Diwali,2023-09-13,2023-09-16,2,1656,3312,18
+1969,Ananya Gupta 969,Kavali,Plants,Deserunt Box,Birthday,2023-03-26,2023-03-31,2,3980,7960,21
+1970,Kabir Singh 970,Imphal,Soft Toys,Dolores Gift,Raksha Bandhan,2023-02-23,2023-02-28,3,1359,4077,10
+1971,Meera Rao 971,Dhanbad,Soft Toys,Deserunt Box,Diwali,2023-08-19,2023-08-23,2,4016,8032,9
+1972,Vikram Malhotra 972,Bilaspur,Cake,Deserunt Box,Diwali,2023-12-06,2023-12-14,1,2611,2611,17
+1973,Sneha Iyer 973,Haridwar,Colors,Magnam Set,Birthday,2023-01-08,2023-01-13,1,2941,2941,21
+1974,Rahul Sen 974,Haridwar,Sweets,Deserunt Box,Holi,2023-11-21,2023-11-26,2,2323,4646,12
+1975,Priya Patel 975,Bidhannagar,Cake,Deserunt Box,Holi,2023-08-17,2023-08-21,1,2845,2845,14
+1976,Meera Rao 976,Bidhannagar,Sweets,Quia Gift,Birthday,2023-03-21,2023-03-27,1,1012,1012,8
+1977,Priya Patel 977,Kavali,Colors,Magnam Set,Valentine's Day,2023-01-18,2023-01-25,2,2671,5342,14
+1978,Amit Deshmukh 978,North Dumdum,Raksha Bandhan,Deserunt Box,Birthday,2023-12-04,2023-12-08,1,1237,1237,0
+1979,Pooja Nair 979,Guntakal,Cake,Deserunt Box,Birthday,2023-08-21,2023-08-25,1,3987,3987,18
+1980,Priya Patel 980,Bidhannagar,Raksha Bandhan,Harum Pack,Diwali,2023-12-06,2023-12-11,3,500,1500,10
+1981,Aarav Sharma 981,Kavali,Sweets,Harum Pack,Valentine's Day,2023-08-05,2023-08-10,2,2640,5280,21
+1982,Neha Joshi 982,North Dumdum,Raksha Bandhan,Quia Gift,Birthday,2023-08-22,2023-08-29,1,1270,1270,9
+1983,Divya Menon 983,Dhanbad,Colors,Quia Gift,Raksha Bandhan,2023-02-12,2023-02-16,2,2228,4456,7
+1984,Kabir Singh 984,Dibrugarh,Plants,Dolores Gift,Holi,2023-05-09,2023-05-15,3,1086,3258,15
+1985,Priya Patel 985,Dibrugarh,Soft Toys,Dolores Gift,Valentine's Day,2023-03-22,2023-03-28,1,1171,1171,13
+1986,Rohan Verma 986,Guntakal,Sweets,Magnam Set,Holi,2023-01-20,2023-01-24,1,2676,2676,8
+1987,Amit Deshmukh 987,Haridwar,Cake,Harum Pack,Valentine's Day,2023-02-11,2023-02-17,1,3769,3769,10
+1988,Aarav Sharma 988,Bidhannagar,Plants,Dolores Gift,Holi,2023-12-26,2024-01-03,1,3483,3483,20
+1989,Sneha Iyer 989,Imphal,Cake,Quia Gift,Diwali,2023-08-28,2023-09-01,1,905,905,20
+1990,Rohan Verma 990,Guntakal,Sweets,Magnam Set,Birthday,2023-03-24,2023-03-30,2,2759,5518,16
+1991,Divya Menon 991,Haridwar,Plants,Quia Gift,Birthday,2023-03-22,2023-03-27,1,1017,1017,9
+1992,Sneha Iyer 992,Dibrugarh,Cake,Harum Pack,Valentine's Day,2023-10-22,2023-10-28,2,1249,2498,13
+1993,Neha Joshi 993,Imphal,Raksha Bandhan,Harum Pack,Diwali,2023-12-17,2023-12-25,3,3834,11502,10
+1994,Rahul Sen 994,Bidhannagar,Mugs,Magnam Set,Diwali,2023-11-21,2023-11-24,2,4370,8740,8
+1995,Sneha Iyer 995,Bhatpara,Cake,Harum Pack,Raksha Bandhan,2023-11-26,2023-12-03,4,2236,8944,18
+1996,Aditya Roy 996,Bilaspur,Plants,Magnam Set,Raksha Bandhan,2023-08-22,2023-08-29,2,2160,4320,2
+1997,Ananya Gupta 997,Bhatpara,Soft Toys,Magnam Set,Valentine's Day,2023-08-12,2023-08-16,2,4394,8788,21
+1998,Aditya Roy 998,Kavali,Soft Toys,Quia Gift,Anniversary,2023-08-06,2023-08-12,3,2644,7932,20
+1999,Rohan Verma 999,Bidhannagar,Mugs,Dolores Gift,Raksha Bandhan,2023-03-02,2023-03-07,1,2028,2028,22
+2000,Neha Joshi 1000,Dhanbad,Sweets,Quia Gift,Anniversary,2023-03-16,2023-03-20,1,3522,3522,17
